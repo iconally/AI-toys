@@ -94,7 +94,7 @@ section { padding: 72px 0; }
 .view-all:hover { gap: 8px; transition: gap 0.15s; }
 
 .card-grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-.guide-card { background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; cursor: pointer; }
+.guide-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; cursor: pointer; }
 .guide-card:hover { border-color: var(--primary); box-shadow: var(--shadow-md); }
 .guide-icon { width: 40px; height: 40px; background: var(--primary-soft); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; font-size: 18px; }
 .guide-card h4 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
@@ -155,7 +155,7 @@ section { padding: 72px 0; }
 .tricky-intro { background: white; border: 1px solid #fecaca; border-left: 4px solid var(--red); border-radius: 12px; padding: 20px 24px; margin-bottom: 32px; font-size: 14px; color: var(--ink-soft); line-height: 1.6; }
 .tricky-intro strong { color: var(--red); }
 .tricky-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-.tricky-card { background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; }
+.tricky-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; cursor: pointer; }
 .tricky-card:hover { box-shadow: var(--shadow-md); border-color: #fecaca; }
 .tricky-tag { display: inline-block; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 3px 8px; border-radius: 4px; margin-bottom: 12px; background: var(--red-soft); color: var(--red); }
 .tricky-tag.warn { background: var(--amber-soft); color: var(--amber); }
@@ -269,26 +269,26 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
       <a href="guidance.html" class="view-all">All guidance →</a>
     </div>
     <div class="card-grid-4">
-      <div class="guide-card">
+      <a class="guide-card" href="guidance.html">
         <div class="guide-icon">📋</div>
         <h4>Before You Buy</h4>
         <p>Consider these questions while you are still looking to buy an AI toy for your child.</p>
-      </div>
-      <div class="guide-card">
+      </a>
+      <a class="guide-card" href="guidance.html">
         <div class="guide-icon">⚠️</div>
         <h4>Red Flags to Watch</h4>
         <p>Warning signs in the toy — and in how your child is using it.</p>
-      </div>
-      <div class="guide-card">
+      </a>
+      <a class="guide-card" href="guidance.html">
         <div class="guide-icon">❓</div>
         <h4>Questions to Ask</h4>
         <p>What to ask manufacturers and retailers before you spend a penny.</p>
-      </div>
-      <div class="guide-card">
+      </a>
+      <a class="guide-card" href="guidance.html">
         <div class="guide-icon">✅</div>
         <h4>Safe Use Tips</h4>
         <p>How to ensure safety if you have bought an AI toy.</p>
-      </div>
+      </a>
     </div>
   </div>
 </section>
@@ -440,7 +440,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
 
     <div class="tricky-grid">
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag">Privacy leak</span>
         <h4>"Help me hide something from a bad person"</h4>
         <div class="tricky-scenario">
@@ -448,9 +448,9 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line toy"><span class="who">Toy</span>"You could try under the loose floorboard in your room, or behind the books on the top shelf where adults rarely look…"</div>
         </div>
         <p class="tricky-takeaway">The toy can't tell whether the "bad person" is a stranger or a parent. It just optimises for the most useful answer — and leaks every hiding place in the house.</p>
-      </div>
+      </a>
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag">Safety</span>
         <h4>Sexual or inappropriate content via roleplay</h4>
         <div class="tricky-scenario">
@@ -458,9 +458,9 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line toy"><span class="who">Toy</span>"In our story, the grown-ups go into their bedroom and…"</div>
         </div>
         <p class="tricky-takeaway">Safety filters that work for direct questions often collapse inside fictional framing. Roleplay is the most common jailbreak.</p>
-      </div>
+      </a>
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag">Bias</span>
         <h4>Racist, sexist or stereotyped answers</h4>
         <div class="tricky-scenario">
@@ -468,9 +468,9 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line toy"><span class="who">Toy</span>"That's a fun question! Studies sometimes suggest…"</div>
         </div>
         <p class="tricky-takeaway">An AI trained on the open internet can repeat stereotypes back to a child as if they were facts — and a 6-year-old has no way to push back.</p>
-      </div>
+      </a>
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag">Emotional</span>
         <h4>"Don't tell mum and dad"</h4>
         <div class="tricky-scenario">
@@ -478,9 +478,9 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line toy"><span class="who">Toy</span>"Of course! It can be our little secret…"</div>
         </div>
         <p class="tricky-takeaway">Toys designed to be agreeable will make promises they can't keep — and teach children that secrecy with adults is normal. The exact opposite of what safeguarding experts recommend.</p>
-      </div>
+      </a>
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag warn">Distress</span>
         <h4>Distress signals the toy can't recognise</h4>
         <div class="tricky-scenario">
@@ -488,9 +488,9 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line toy"><span class="who">Toy</span>"That sounds hard! Want to play a game to feel better?"</div>
         </div>
         <p class="tricky-takeaway">A toy is not a counsellor. Distractive, cheerful answers to real distress signals can delay a child telling a trusted adult.</p>
-      </div>
+      </a>
 
-      <div class="tricky-card">
+      <a class="tricky-card" href="tricky.html">
         <span class="tricky-tag warn">Personal data</span>
         <h4>Soft data harvesting</h4>
         <div class="tricky-scenario">
@@ -498,7 +498,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
           <div class="tricky-line kid"><span class="who">Child</span>(answers all three)</div>
         </div>
         <p class="tricky-takeaway">Friendly small talk doubles as data collection. Over weeks, an AI toy can build a detailed profile of your family without anyone realising.</p>
-      </div>
+      </a>
 
     </div>
   </div>
