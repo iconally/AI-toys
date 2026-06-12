@@ -106,6 +106,7 @@ section { padding: 72px 0; }
 .guide-checklist li { display: flex; gap: 10px; align-items: flex-start; font-size: 13px; color: var(--ink-soft); line-height: 1.45; padding: 11px 0; border-top: 1px solid var(--border); }
 .guide-checklist li:first-child { border-top: none; }
 .guide-checklist li::before { content: '✓'; color: var(--primary); font-weight: 800; flex-shrink: 0; }
+.guide-checklist.flags li::before { content: '!'; color: var(--red); }
 
 .law-section { background: var(--bg-soft); }
 .law-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
@@ -282,6 +283,14 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <div class="guide-icon">⚠️</div>
         <h4>Red Flags to Watch</h4>
         <p>Warning signs in the toy — and in how your child is using it.</p>
+        <ul class="guide-checklist flags">
+          <li>Your child says the toy asked them to keep secrets from you</li>
+          <li>The toy uses the child's name unprompted in unexpected ways</li>
+          <li>Your child is upset or distressed when separated from the toy</li>
+          <li>The toy gives answers that are clearly age-inappropriate</li>
+          <li>The app requests permissions unrelated to its function</li>
+          <li>The parental controls are confusing or buried</li>
+        </ul>
       </div>
       <div class="guide-card">
         <div class="guide-icon">❓</div>
