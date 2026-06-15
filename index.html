@@ -100,6 +100,11 @@ section { padding: 72px 0; }
 .guide-icon { width: 40px; height: 40px; background: var(--primary-soft); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; font-size: 18px; }
 .guide-card h4 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
 .guide-card p { font-size: 13px; color: var(--muted); line-height: 1.45; }
+.research-list { display: flex; flex-direction: column; gap: 12px; }
+.research-list a { display: flex; align-items: center; justify-content: space-between; gap: 16px; background: white; border: 1px solid var(--border); border-radius: 12px; padding: 18px 22px; font-size: 17px; font-weight: 700; color: var(--ink); text-decoration: none; transition: all 0.15s; }
+.research-list a::after { content: '→'; color: var(--primary); font-weight: 600; opacity: 0; transition: all 0.15s; }
+.research-list a:hover { border-color: var(--primary); color: var(--primary); box-shadow: var(--shadow-sm); }
+.research-list a:hover::after { opacity: 1; }
 
 .law-section { background: var(--bg-soft); }
 .law-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
@@ -245,7 +250,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
       <a href="#news">News</a>
       <a href="#talk">Talk to Your Child</a>
       <a href="#tricky">Tricky Questions</a>
-      <a href="research.html">Research</a>
+      <a href="#research">Research</a>
       <a href="#toys">AI Toys</a>
       <a href="#law">Law</a>
     </div>
@@ -296,6 +301,25 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
         <h4>Safe Use Tips</h4>
         <p>How to ensure safety if you have bought an AI toy.</p>
       </a>
+    </div>
+  </div>
+</section>
+
+<section id="research">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <h2>AI Toys Research</h2>
+        <p>Evidence-based answers to the questions parents ask most about AI toys.</p>
+      </div>
+      <a href="research.html" class="view-all">All research →</a>
+    </div>
+    <div class="research-list">
+      <a href="research.html">Are AI toys safe?</a>
+      <a href="research.html">Do AI toys help children grow up?</a>
+      <a href="research.html">Can AI toys help children learn?</a>
+      <a href="research.html">How do I introduce AI toys to my child?</a>
+      <a href="research.html">I still can’t decide.</a>
     </div>
   </div>
 </section>
@@ -639,7 +663,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
           <li><a href="#news">News &amp; Incidents</a></li>
           <li><a href="#talk">Talk to Your Child</a></li>
           <li><a href="#tricky">Tricky Questions</a></li>
-          <li><a href="research.html">Research</a></li>
+          <li><a href="#research">Research</a></li>
           <li><a href="#toys">AI Toys</a></li>
           <li><a href="#law">Law &amp; Rights</a></li>
         </ul>
