@@ -1,0 +1,47 @@
+name: Hourly AI-toy news & incidents
+
+on:
+  schedule:
+    # Runs about once an hour (GitHub cron timing is approximate).
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: news-bot
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest news & incidents
+        run: node scripts/fetch-news.mjs
+
+      - name: Open / update review pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: news-bot/update
+          base: main
+          add-paths: |
+            data/news.json
+            data/incidents.json
+          commit-message: "chore: refresh AI-toy news & incidents"
+          title: "Review: new AI-toy news & incidents"
+          body: |
+            Automated update from Google News RSS (English).
+
+            - `data/news.json` — latest articles
+            - `data/incidents.json` — possible incidents (keyword-flagged)
+
+            Review the items below, delete anything irrelevant, then **merge** to publish to the live site.
+          delete-branch: false

@@ -1,0 +1,38 @@
+[
+  {
+    "source": "BBC News",
+    "date": "2 days ago",
+    "tag": "privacy",
+    "tagLabel": "Privacy",
+    "headline": "Children's AI toy stored conversations on unsecured server, researchers find",
+    "summary": "Security researchers disclosed a misconfigured cloud bucket exposing voice recordings from a popular AI plush toy. The manufacturer has since secured the data.",
+    "url": "#"
+  },
+  {
+    "source": "The Guardian",
+    "date": "5 days ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Study: kids form \"real\" attachments to AI companion toys within two weeks",
+    "summary": "A Cambridge research team published findings on emotional bonding patterns in 4–8 year olds using AI-powered companion toys.",
+    "url": "#"
+  },
+  {
+    "source": "Wired",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Why AI toys are arriving faster than the rules that govern them",
+    "summary": "A look at the gap between the speed of generative AI in consumer toys and the slower pace of toy-safety regulation.",
+    "url": "#"
+  },
+  {
+    "source": "404 Media",
+    "date": "1 week ago",
+    "tag": "recall",
+    "tagLabel": "Recall",
+    "headline": "Talking bear pulled from sale after jailbreak goes viral",
+    "summary": "A widely-shared TikTok video showed an AI plush toy producing inappropriate content after a simple prompt. The retailer has paused sales pending investigation.",
+    "url": "#"
+  }
+]

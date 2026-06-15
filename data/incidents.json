@@ -1,0 +1,30 @@
+[
+  {
+    "severity": "high",
+    "toy": "Grok the Dino",
+    "title": "Filter bypass via roleplay prompt",
+    "desc": "Documented method for making the toy ignore content filters. Reported to manufacturer; no patch yet.",
+    "url": ""
+  },
+  {
+    "severity": "medium",
+    "toy": "CozyTalk",
+    "title": "Voice data retention longer than disclosed",
+    "desc": "Independent test found recordings stored for 90+ days despite privacy policy claim of 30.",
+    "url": ""
+  },
+  {
+    "severity": "medium",
+    "toy": "Luka",
+    "title": "Parental dashboard intermittent outage",
+    "desc": "Chat-log review feature unavailable for 3 days in late October.",
+    "url": ""
+  },
+  {
+    "severity": "high",
+    "toy": "BuddyBot Pro",
+    "title": "Recall issued in EU markets",
+    "desc": "Manufacturer issued voluntary recall over microphone activation bug.",
+    "url": ""
+  }
+]

@@ -141,6 +141,8 @@ section { padding: 72px 0; }
 .severity.medium { background: var(--amber-soft); color: var(--amber); }
 .incident-toy { font-size: 11px; color: var(--muted); font-weight: 600; }
 .incident h4 { font-size: 13.5px; font-weight: 600; line-height: 1.4; margin-bottom: 4px; }
+.incident h4 a.incident-link { color: inherit; text-decoration: none; }
+.incident h4 a.incident-link:hover { color: var(--primary); }
 .incident p { font-size: 12px; color: var(--muted); line-height: 1.45; }
 
 .talk-section { background: linear-gradient(135deg, #fef3c7 0%, #fef9e7 100%); border-radius: 24px; padding: 48px; display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
@@ -338,94 +340,14 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
         <h3><span class="live-pulse"></span>Recent Articles</h3>
         <p class="ai-note">AI-drafted summaries from trusted outlets, reviewed by our team before publishing. Always linked to the original.</p>
 
-        <div class="news-item">
-          <div style="flex:1;">
-            <div class="news-meta">
-              <span class="news-source">BBC News</span>
-              <span class="news-date">2 days ago</span>
-              <span class="news-tag privacy">Privacy</span>
-            </div>
-            <a href="#" class="news-headline">Children's AI toy stored conversations on unsecured server, researchers find</a>
-            <p class="news-summary">Security researchers disclosed a misconfigured cloud bucket exposing voice recordings from a popular AI plush toy. The manufacturer has since secured the data.</p>
-          </div>
-        </div>
-
-        <div class="news-item">
-          <div style="flex:1;">
-            <div class="news-meta">
-              <span class="news-source">The Guardian</span>
-              <span class="news-date">5 days ago</span>
-              <span class="news-tag research">Research</span>
-            </div>
-            <a href="#" class="news-headline">Study: kids form "real" attachments to AI companion toys within two weeks</a>
-            <p class="news-summary">A Cambridge research team published findings on emotional bonding patterns in 4–8 year olds using AI-powered companion toys.</p>
-          </div>
-        </div>
-
-        <div class="news-item">
-          <div style="flex:1;">
-            <div class="news-meta">
-              <span class="news-source">Wired</span>
-              <span class="news-date">1 week ago</span>
-              <span class="news-tag">Industry</span>
-            </div>
-            <a href="#" class="news-headline">Why AI toys are arriving faster than the rules that govern them</a>
-            <p class="news-summary">A look at the gap between the speed of generative AI in consumer toys and the slower pace of toy-safety regulation.</p>
-          </div>
-        </div>
-
-        <div class="news-item">
-          <div style="flex:1;">
-            <div class="news-meta">
-              <span class="news-source">404 Media</span>
-              <span class="news-date">1 week ago</span>
-              <span class="news-tag recall">Recall</span>
-            </div>
-            <a href="#" class="news-headline">Talking bear pulled from sale after jailbreak goes viral</a>
-            <p class="news-summary">A widely-shared TikTok video showed an AI plush toy producing inappropriate content after a simple prompt. The retailer has paused sales pending investigation.</p>
-          </div>
-        </div>
+        <div id="news-list"></div>
       </div>
 
       <div class="news-col">
         <h3><iconify-icon icon="lucide:alert-triangle"></iconify-icon> Incident Log</h3>
         <p class="ai-note">Verified incidents involving specific AI toys. Updated weekly.</p>
 
-        <div class="incident">
-          <div class="severity-row">
-            <span class="severity high">High</span>
-            <span class="incident-toy">Grok the Dino</span>
-          </div>
-          <h4>Filter bypass via roleplay prompt</h4>
-          <p>Documented method for making the toy ignore content filters. Reported to manufacturer; no patch yet.</p>
-        </div>
-
-        <div class="incident">
-          <div class="severity-row">
-            <span class="severity medium">Medium</span>
-            <span class="incident-toy">CozyTalk</span>
-          </div>
-          <h4>Voice data retention longer than disclosed</h4>
-          <p>Independent test found recordings stored for 90+ days despite privacy policy claim of 30.</p>
-        </div>
-
-        <div class="incident">
-          <div class="severity-row">
-            <span class="severity medium">Medium</span>
-            <span class="incident-toy">Luka</span>
-          </div>
-          <h4>Parental dashboard intermittent outage</h4>
-          <p>Chat-log review feature unavailable for 3 days in late October.</p>
-        </div>
-
-        <div class="incident">
-          <div class="severity-row">
-            <span class="severity high">High</span>
-            <span class="incident-toy">BuddyBot Pro</span>
-          </div>
-          <h4>Recall issued in EU markets</h4>
-          <p>Manufacturer issued voluntary recall over microphone activation bug.</p>
-        </div>
+        <div id="incident-list"></div>
       </div>
     </div>
   </div>
@@ -691,5 +613,40 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   </div>
 </footer>
 
+<script>
+(function () {
+  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function newsCard(it){
+    var tagClass = it.tag ? ' ' + esc(it.tag) : '';
+    var tagHtml = it.tagLabel ? '<span class="news-tag'+tagClass+'">'+esc(it.tagLabel)+'</span>' : '';
+    var hasUrl = it.url && it.url !== '#';
+    var openHref = hasUrl ? esc(it.url) : '#';
+    var attrs = hasUrl ? ' target="_blank" rel="noopener"' : '';
+    return '<div class="news-item"><div style="flex:1;">'
+      + '<div class="news-meta"><span class="news-source">'+esc(it.source)+'</span>'
+      + '<span class="news-date">'+esc(it.date)+'</span>'+tagHtml+'</div>'
+      + '<a href="'+openHref+'" class="news-headline"'+attrs+'>'+esc(it.headline)+'</a>'
+      + '<p class="news-summary">'+esc(it.summary)+'</p>'
+      + '</div></div>';
+  }
+  function incidentCard(it){
+    var sev = (it.severity||'medium').toLowerCase();
+    var sevLabel = sev.charAt(0).toUpperCase()+sev.slice(1);
+    var toy = it.toy ? '<span class="incident-toy">'+esc(it.toy)+'</span>' : '';
+    var title = esc(it.title);
+    var titleHtml = it.url ? '<h4><a class="incident-link" href="'+esc(it.url)+'" target="_blank" rel="noopener">'+title+'</a></h4>' : '<h4>'+title+'</h4>';
+    return '<div class="incident"><div class="severity-row"><span class="severity '+esc(sev)+'">'+esc(sevLabel)+'</span>'+toy+'</div>'
+      + titleHtml + (it.desc ? '<p>'+esc(it.desc)+'</p>' : '') + '</div>';
+  }
+  function load(url, el, render, empty){
+    fetch(url, {cache:'no-store'}).then(function(r){return r.ok?r.json():[];}).then(function(items){
+      if(!Array.isArray(items) || !items.length){ el.innerHTML = '<p class="news-summary">'+empty+'</p>'; return; }
+      el.innerHTML = items.map(render).join('');
+    }).catch(function(){ el.innerHTML = '<p class="news-summary">'+empty+'</p>'; });
+  }
+  var n = document.getElementById('news-list'); if(n) load('data/news.json', n, newsCard, 'No articles yet.');
+  var i = document.getElementById('incident-list'); if(i) load('data/incidents.json', i, incidentCard, 'No incidents logged yet.');
+})();
+</script>
 </body>
 </html>
