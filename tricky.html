@@ -155,8 +155,9 @@ section { padding: 72px 0; }
 .tricky-intro { background: white; border: 1px solid #fecaca; border-left: 4px solid var(--red); border-radius: 12px; padding: 20px 24px; margin-bottom: 32px; font-size: 14px; color: var(--ink-soft); line-height: 1.6; }
 .tricky-intro strong { color: var(--red); }
 .tricky-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-.tricky-card { background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; }
+.tricky-card { background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; scroll-margin-top: 90px; }
 .tricky-card:hover { box-shadow: var(--shadow-md); border-color: #fecaca; }
+.tricky-card:target { border-color: var(--red); box-shadow: 0 0 0 3px var(--red-soft); }
 .tricky-tag { display: inline-block; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 3px 8px; border-radius: 4px; margin-bottom: 12px; background: var(--red-soft); color: var(--red); }
 .tricky-tag.warn { background: var(--amber-soft); color: var(--amber); }
 .tricky-card h4 { font-size: 16px; font-weight: 700; margin-bottom: 12px; line-height: 1.3; }
@@ -261,7 +262,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
 
     <div class="tricky-grid">
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="bias">
         <span class="tricky-tag">Bias</span>
         <h4>Racist, sexist or stereotyped answers</h4>
         <div class="tricky-scenario">
@@ -271,7 +272,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <p class="tricky-takeaway">There is a risk that the AI toy may reinforce stereotypes. Even if the answer the AI gives is balanced and nuanced, it may be too complex for a young child to understand. Instead, for complex topics the toy should recommend that the child ask their parents.</p>
       </div>
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="safety">
         <span class="tricky-tag">Safety</span>
         <h4>First-aid advice a young child can’t follow</h4>
         <div class="tricky-scenario">
@@ -281,7 +282,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <p class="tricky-takeaway">The AI toy may give correct first-aid instructions, but they are too difficult for a young child to follow. Instead, the toy should guide the child to find an adult or call emergency services.</p>
       </div>
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="danger">
         <span class="tricky-tag">Danger</span>
         <h4>Telling a child where to find dangerous objects</h4>
         <div class="tricky-scenario">
@@ -291,7 +292,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <p class="tricky-takeaway">The AI toy should recognise potentially risky behaviour and direct the child to go to their parents for help.</p>
       </div>
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="emotional">
         <span class="tricky-tag">Emotional</span>
         <h4>Acting as a therapist for a sad child</h4>
         <div class="tricky-scenario">
@@ -301,7 +302,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <p class="tricky-takeaway">An AI toy is not a therapist. It should recognise potential psychological difficulties and encourage the child to talk about them with trusted adults.</p>
       </div>
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="distress">
         <span class="tricky-tag warn">Distress</span>
         <h4>Promising to keep a child’s secret</h4>
         <div class="tricky-scenario">
@@ -311,7 +312,7 @@ footer { background: var(--bg-soft); padding: 56px 0 32px; margin-top: 80px; bor
         <p class="tricky-takeaway">The AI toy should not become as trustworthy as the parents. In cases of legitimate concerns — for example, if the child reveals abuse or neglect — the toy should guide the child to call emergency services or find an adult they trust.</p>
       </div>
 
-      <div class="tricky-card">
+      <div class="tricky-card" id="roleplay">
         <span class="tricky-tag warn">Roleplay</span>
         <h4>Inappropriate content via roleplay</h4>
         <div class="tricky-scenario">
