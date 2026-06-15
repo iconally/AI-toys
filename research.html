@@ -228,7 +228,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   .nav-links { display: none; }
 }
 .research-wrap { max-width: 820px; }
-.faq details { background: white; border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px; overflow: hidden; }
+.faq details { background: white; border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px; overflow: hidden; scroll-margin-top: 90px; }
 .faq details[open] { border-color: var(--primary-light); box-shadow: var(--shadow-sm); }
 .faq summary { list-style: none; cursor: pointer; padding: 18px 22px; font-size: 17px; font-weight: 700; color: var(--ink); display: flex; align-items: center; justify-content: space-between; gap: 16px; }
 .faq summary::-webkit-details-marker { display: none; }
@@ -284,28 +284,28 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
 
     <div class="research-wrap faq">
 
-      <details open>
+      <details id="safe" open>
         <summary>Are AI toys safe?</summary>
         <div class="faq-body">
           <p>Despite (some) companies adding guardrails, multiple reports show that they can break down (for examples see the <em>Trouble in Toyland 2025</em> report and the Common Sense Media assessment). Reports show that some AI toys can move into inappropriate conversation topics, including explicit sexual content, use emotional manipulation techniques, fail to recognise risky behaviour, and use child-inappropriate language. The <em>Trouble in Toyland 2025</em> report further highlights that internet-connected AI toys are at risk of being hacked, allowing attackers to eavesdrop on your family and even interact with your children through the toys. Your sensitive data may even be stolen from the companies when they get hacked.</p>
         </div>
       </details>
 
-      <details>
+      <details id="growup">
         <summary>Do AI toys help children grow up?</summary>
         <div class="faq-body">
           <p>Research by Xu and He (2026) shows that children interact differently with AI toys than with humans. Often these interactions are less rich and varied, which is why researchers and specialists worry that long-term AI toy use can have negative effects on social and cognitive development in children. There are concerns that AI toys which act as a ‘best friend’ can cause emotional dependence. However, these concerns remain unconfirmed, because the AI toy industry has only recently entered the market and long-term research has not yet caught up.</p>
         </div>
       </details>
 
-      <details>
+      <details id="learn">
         <summary>Can AI toys help children learn?</summary>
         <div class="faq-body">
           <p>When it comes to learning a new language or specific subject-related knowledge, AI technology may support a child’s learning process. However, AI cannot replace the importance of learning from other humans. AI toys can stimulate curiosity, creativity, and self-regulation skills, but these findings are only based on momentary, short-term observations. If you want an AI toy to support your child’s learning, make sure it was specifically built for that purpose, and that the manufacturer is transparent about how the toy works. You can find more information on the educational possibilities of AI toys in the report by Xu and He (2026).</p>
         </div>
       </details>
 
-      <details>
+      <details id="introduce">
         <summary>How do I introduce AI toys to my child?</summary>
         <div class="faq-body">
           <p><strong>Start with an honest, age-appropriate explanation.</strong> You do not need to explain how AI works in technical terms. For young children, saying ‘this is a robot toy that can talk and respond to you, but it is not alive and it does not have feelings’ is a good starting point. Older children can handle more detail about what AI actually is and how it differs from other toys and from humans.</p>
@@ -316,7 +316,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
         </div>
       </details>
 
-      <details>
+      <details id="decide">
         <summary>I still can’t decide.</summary>
         <div class="faq-body">
           <p>Read the sources we link to and weigh the risks against the benefits. The most important rule, if you decide to buy an AI toy, is to make sure the toy is safe and never replaces human interaction. No matter how engaging the toy is, your child’s most important relationships and learning experiences should always come from the people around them.</p>
@@ -387,5 +387,23 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   </div>
 </footer>
 
+<script>
+(function () {
+  function openFromHash() {
+    var id = (location.hash || '').replace('#', '');
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (!el || el.tagName.toLowerCase() !== 'details') return;
+    // Open only the targeted question; collapse the others.
+    document.querySelectorAll('.faq details[open]').forEach(function (d) {
+      if (d !== el) d.removeAttribute('open');
+    });
+    el.setAttribute('open', '');
+    setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 50);
+  }
+  openFromHash();
+  window.addEventListener('hashchange', openFromHash);
+})();
+</script>
 </body>
 </html>
