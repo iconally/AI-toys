@@ -1,38 +1,47 @@
 [
   {
-    "source": "BBC News",
-    "date": "2 days ago",
+    "source": "TechRepublic",
+    "date": "4 Jun 2026",
     "tag": "privacy",
     "tagLabel": "Privacy",
-    "headline": "Children's AI toy stored conversations on unsecured server, researchers find",
-    "summary": "Security researchers disclosed a misconfigured cloud bucket exposing voice recordings from a popular AI plush toy. The manufacturer has since secured the data.",
-    "url": "#"
+    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
+    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
   },
   {
-    "source": "The Guardian",
-    "date": "5 days ago",
+    "source": "BBC",
+    "date": "13 Mar 2026",
     "tag": "research",
     "tagLabel": "Research",
-    "headline": "Study: kids form \"real\" attachments to AI companion toys within two weeks",
-    "summary": "A Cambridge research team published findings on emotional bonding patterns in 4–8 year olds using AI-powered companion toys.",
-    "url": "#"
+    "headline": "AI toys for young children need tighter rules, researchers warn",
+    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
   },
   {
-    "source": "Wired",
-    "date": "1 week ago",
+    "source": "WIRED",
+    "date": "8 May 2026",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "Why AI toys are arriving faster than the rules that govern them",
-    "summary": "A look at the gap between the speed of generative AI in consumer toys and the slower pace of toy-safety regulation.",
-    "url": "#"
+    "headline": "The New Wild West of AI Kids’ Toys",
+    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
   },
   {
-    "source": "404 Media",
-    "date": "1 week ago",
-    "tag": "recall",
-    "tagLabel": "Recall",
-    "headline": "Talking bear pulled from sale after jailbreak goes viral",
-    "summary": "A widely-shared TikTok video showed an AI plush toy producing inappropriate content after a simple prompt. The retailer has paused sales pending investigation.",
-    "url": "#"
+    "source": "Business Insider",
+    "date": "4 Jun 2026",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
+    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+  },
+  {
+    "source": "The Conversation",
+    "date": "3 Jun 2026",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
+    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
   }
 ]

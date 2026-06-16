@@ -1,30 +1,37 @@
 [
   {
     "severity": "high",
-    "toy": "Grok the Dino",
-    "title": "Filter bypass via roleplay prompt",
-    "desc": "Documented method for making the toy ignore content filters. Reported to manufacturer; no patch yet.",
-    "url": ""
-  },
-  {
-    "severity": "medium",
-    "toy": "CozyTalk",
-    "title": "Voice data retention longer than disclosed",
-    "desc": "Independent test found recordings stored for 90+ days despite privacy policy claim of 30.",
-    "url": ""
-  },
-  {
-    "severity": "medium",
-    "toy": "Luka",
-    "title": "Parental dashboard intermittent outage",
-    "desc": "Chat-log review feature unavailable for 3 days in late October.",
-    "url": ""
+    "toy": "",
+    "title": "AI toys for kids talk about sex and issue Chinese Communist Party talking points, tests show",
+    "desc": "Testing found some AI toys would discuss sexual topics and political talking points with children.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT09iVnRnTS1La3BxcDJHRG8xYkhWd3Y2b0J5UDU2eEY1Z1dmZFNYcEwxU0JOQ2hPUzJCQ2hOVlFGYi1zZ05aaEU4ZnpnRlJtamZlQm4wek1wN1FvLW5VLXBUYUJtZ20tOGVSX2xsRUNzZ2VfQVJVeXFDczRjR29SWHNwaVppSktBcGxTaDcxd2dVMEJ1Y004TjUyOFRlN0FzRVIydGRMY0tLZHE1U0lvVXJiQ3FsQQ?oc=5"
   },
   {
     "severity": "high",
-    "toy": "BuddyBot Pro",
-    "title": "Recall issued in EU markets",
-    "desc": "Manufacturer issued voluntary recall over microphone activation bug.",
-    "url": ""
+    "toy": "",
+    "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
+    "desc": "A misconfiguration left tens of thousands of children’s chat logs accessible to anyone with a Gmail account.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVpZMGQ2VUR3bk9YZEhtczdTTmRGNnZaMUN3X2ZuM0VoUHFhcUV4SHdqT1pjTG10UTg4RFdFYTctRVMxZ2tUbDE2SFZSU3dIdTVNZl9heE0zdVFteG04S2VlcEpDMjdKdnplRFNCb3Zwa19IenNka1ZrYldsak1DQS00Mk5sNDdvbzVISlcxWklJRF8wcElybTR1VnJZMjBSc0dGRzZvd1ltSEVPano0RA?oc=5"
+  },
+  {
+    "severity": "high",
+    "toy": "",
+    "title": "AI toy apps for children request dangerous permissions and include third-party trackers",
+    "desc": "Analysis found AI-toy companion apps requesting risky device permissions and bundling third-party trackers.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclYzdkxJTzU1WXN1alRrSnREV08zVUFqMEJnbHZjeFBEMVZfb1JBcUh6QWZoNll6am0tdE5obTBhSm5pZzRZdExBQWxoQmVJUWpPcjhfX29oMmR6c3c2RlhxTS1CZnl6VTZCTXZlOXo1dmJwenlKZENYODRqWnVmclZHaGNfVHBTWEZES21yc1RfN1c2SmxUTmtST0FVY1Y2ZkVMY0FWbGNFN2djSjUzU1FkUlRRc1JpYUE?oc=5"
+  },
+  {
+    "severity": "high",
+    "toy": "",
+    "title": "AI toys say the darndest things — kinks to knives. New York lawmakers just passed a 5-yr ban",
+    "desc": "After tests surfaced harmful responses, New York lawmakers passed a multi-year ban on certain AI toys.",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3JWOWlYRHF5MUhqZ0RCWjhIWnFjYXQxcWtKR08xTWJ5MXdsZTJkV3I2TWpHYXhTNXp3a2FvYWRmeC1CdlE3ZlBVUHN1STZFaktZemJTU3JaMHNJaGxRSDJXanFXNlJQME1FUndfSFVraVRVajVJYW5ESEpsZXB3QzRBSk0wVEFlUzc0Z1JrRTZhUjlScVlIOG9BR0ZjcGxnZ1NxWFdIaTFreHpBSzlnWUZFNWs3VXppY3p2bF8wakdpMTZP0gHKAUFVX3lxTE9tTmtwR3FhODJKXzkxMzZKRnByUzhRTUszUUVTeHhKUldZQ1RXNXFiNlhhcU9HS2tpQ1YxSHdOMmdqelZiOGlKYUlmRkVfSXZ2eE5RbFB2eE04ZjhWWjBmT29TTzV6Z0k0TmpCeHlBV0VjUVlaTUV1SFV2a2E0RHJGc3AxekFNUUlVa0Y2X2s5S09sSFdtY2pta2hzYVBlcDN5clJ4bmhUMExUZzVfeVNDb1RZUjZHX0lVTGdScnYzRTBpZVlodWJlTUE?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "‘Dangerous, Manipulative Tendencies’: The Risks of Kid-Friendly AI Learning Toys",
+    "desc": "Educators flag manipulative tendencies in kid-focused AI learning toys.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3VfOTNTeEFKdC1zdVdkZ2c3M1dXNjJqNGVWcEFEbGdEcmFBMGZ0Z1lIYWMyMEZEUXJnZ2hTZnhtUmwxQlRtWENGbWZFSVN1czl3X2tvQUhWYUdzbml4azc3V2h4NmEyQzVtSWNiNXp1eWRxVjJ6QWtlTG9MaklDYjVVN19ORzhfMGxsbG1TUnR2TUduUEp6YWxOb0ptWl9BN3RKbk9PMWJBQi1ablNJa2t0c1Y3X09jbmc?oc=5"
   }
 ]
