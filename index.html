@@ -100,6 +100,12 @@ section { padding: 72px 0; }
 .guide-icon { width: 40px; height: 40px; background: var(--primary-soft); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; font-size: 18px; }
 .guide-card h4 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
 .guide-card p { font-size: 13px; color: var(--muted); line-height: 1.45; }
+.guide-preview { list-style: none; margin: 16px 0 0; padding: 0; }
+.guide-preview li { position: relative; padding-left: 22px; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5; margin-bottom: 10px; }
+.guide-preview li::before { content: '✓'; position: absolute; left: 0; color: var(--primary); font-weight: 800; }
+.guide-preview.tips li::before { color: var(--green); }
+.guide-more { display: inline-block; margin-top: 6px; font-size: 13.5px; font-weight: 600; color: var(--primary); }
+.guide-card:hover .guide-more { text-decoration: underline; }
 .research-list { display: flex; flex-direction: column; gap: 12px; }
 .research-list a { display: flex; align-items: center; justify-content: space-between; gap: 16px; background: white; border: 1px solid var(--border); border-radius: 12px; padding: 18px 22px; font-size: 17px; font-weight: 700; color: var(--ink); text-decoration: none; transition: all 0.15s; }
 .research-list a::after { content: '→'; color: var(--primary); font-weight: 600; opacity: 0; transition: all 0.15s; }
@@ -291,11 +297,23 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
         <div class="guide-icon"><iconify-icon icon="lucide:clipboard-list"></iconify-icon></div>
         <h4>Before You Buy</h4>
         <p>Consider these questions while you are still looking to buy an AI toy for your child.</p>
+        <ul class="guide-preview">
+          <li>Does your child need an AI toy or are traditional toys enough?</li>
+          <li>Can you easily find clear information about the toy and the company behind it?</li>
+          <li>Does the company list its team members; are any of them child psychology and safety experts?</li>
+        </ul>
+        <span class="guide-more">See all →</span>
       </a>
       <a class="guide-card" href="guidance.html">
         <div class="guide-icon"><iconify-icon icon="lucide:check-circle"></iconify-icon></div>
         <h4>Safe Use Tips</h4>
         <p>How to ensure safety if you have bought an AI toy.</p>
+        <ul class="guide-preview tips">
+          <li>Test the toy by yourself to learn how it reacts to possibly risky situations</li>
+          <li>Watch out for age-inappropriate answers and observe how your child responds to the toy</li>
+          <li>Treat AI-toy time like screen time: set limits and balance it with offline play, books, and human interaction</li>
+        </ul>
+        <span class="guide-more">See all →</span>
       </a>
     </div>
   </div>
