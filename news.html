@@ -284,16 +284,16 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
       </div>
       <a href="index.html" class="view-all">← Back to home</a>
     </div>
-    <div class="news-wrap">
-      <div class="news-col">
-        <h3><span class="live-pulse"></span>Recent Articles</h3>
-        <p class="ai-note">AI-drafted summaries from trusted outlets, reviewed by our team before publishing. Always linked to the original.</p>
-        <div id="news-list"></div>
-      </div>
+    <div style="display: flex; flex-direction: column; gap: 24px;">
       <div class="news-col">
         <h3><iconify-icon icon="lucide:alert-triangle"></iconify-icon> Incident Log</h3>
         <p class="ai-note">Verified incidents involving specific AI toys.</p>
         <div id="incident-list"></div>
+      </div>
+      <div class="news-col">
+        <h3><span class="live-pulse"></span>Recent Articles</h3>
+        <p class="ai-note">AI-drafted summaries from trusted outlets, reviewed by our team before publishing. Always linked to the original.</p>
+        <div id="news-list"></div>
       </div>
     </div>
   </div>
