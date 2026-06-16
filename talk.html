@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Law &amp; Your Rights — AI Toy Safety</title>
+<title>Talk to Your Child — AI Toy Safety</title>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
 <style>
@@ -94,12 +94,18 @@ section { padding: 72px 0; }
 .view-all { color: var(--primary); font-size: 14px; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; }
 .view-all:hover { gap: 8px; transition: gap 0.15s; }
 
-.card-grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.card-grid-4 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .guide-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; cursor: pointer; }
 .guide-card:hover { border-color: var(--primary); box-shadow: var(--shadow-md); }
 .guide-icon { width: 40px; height: 40px; background: var(--primary-soft); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 14px; font-size: 18px; }
 .guide-card h4 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
 .guide-card p { font-size: 13px; color: var(--muted); line-height: 1.45; }
+.guide-preview { list-style: none; margin: 16px 0 0; padding: 0; }
+.guide-preview li { position: relative; padding-left: 22px; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5; margin-bottom: 10px; }
+.guide-preview li::before { content: '✓'; position: absolute; left: 0; color: var(--primary); font-weight: 800; }
+.guide-preview.tips li::before { color: var(--green); }
+.guide-more { display: inline-block; margin-top: 6px; font-size: 13.5px; font-weight: 600; color: var(--primary); }
+.guide-card:hover .guide-more { text-decoration: underline; }
 .research-list { display: flex; flex-direction: column; gap: 12px; }
 .research-list a { display: flex; align-items: center; justify-content: space-between; gap: 16px; background: white; border: 1px solid var(--border); border-radius: 12px; padding: 18px 22px; font-size: 17px; font-weight: 700; color: var(--ink); text-decoration: none; transition: all 0.15s; }
 .research-list a::after { content: '→'; color: var(--primary); font-weight: 600; opacity: 0; transition: all 0.15s; }
@@ -164,12 +170,15 @@ section { padding: 72px 0; }
 .tricky-intro { background: white; border: 1px solid #fecaca; border-left: 4px solid var(--red); border-radius: 12px; padding: 20px 24px; margin-bottom: 32px; font-size: 14px; color: var(--ink-soft); line-height: 1.6; }
 .tricky-intro strong { color: var(--red); }
 .tricky-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-.tricky-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: all 0.15s; cursor: pointer; }
+.tricky-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 18px 16px 16px; transition: all 0.15s; cursor: pointer; }
 .tricky-card:hover { box-shadow: var(--shadow-md); border-color: #fecaca; }
 .tricky-tag { display: inline-block; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 3px 8px; border-radius: 4px; margin-bottom: 12px; background: var(--red-soft); color: var(--red); }
 .tricky-tag.warn { background: var(--amber-soft); color: var(--amber); }
 .tricky-card h4 { font-size: 16px; font-weight: 700; margin-bottom: 12px; line-height: 1.3; }
-.tricky-scenario { background: var(--bg-soft); border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+.tricky-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+.tricky-tags .tricky-tag { margin-bottom: 0; text-decoration: none; cursor: pointer; transition: filter 0.15s; }
+.tricky-tags a.tricky-tag:hover { filter: brightness(0.92); }
+.tricky-scenario { background: var(--bg-soft); border-radius: 10px; padding: 14px 16px; margin-bottom: 0; }
 .tricky-line { font-size: 13px; margin-bottom: 6px; line-height: 1.5; }
 .tricky-line:last-child { margin-bottom: 0; }
 .tricky-line .who { font-weight: 700; color: var(--ink); font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; display: block; margin-bottom: 2px; }
@@ -235,20 +244,11 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .nav-links { display: none; }
 }
-.law-article { max-width: 820px; }
-.law-entry { padding: 30px 0; border-top: 1px solid var(--border); scroll-margin-top: 90px; }
-.law-entry:first-of-type { border-top: none; padding-top: 8px; }
-.law-entry h3 { font-size: 22px; font-weight: 700; color: var(--ink); line-height: 1.3; margin: 10px 0 14px; }
-.law-entry p { font-size: 15px; color: var(--ink-soft); line-height: 1.7; margin-bottom: 14px; }
-.law-entry p:last-child { margin-bottom: 0; }
-.sources { max-width: 820px; margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--border); }
-.sources h3 { font-size: 18px; font-weight: 700; color: var(--ink); margin-bottom: 16px; }
-.sources ol { list-style: none; padding: 0; margin: 0; }
-.sources li { font-size: 13.5px; color: var(--ink-soft); line-height: 1.6; margin-bottom: 14px; }
-.sources li:last-child { margin-bottom: 0; }
-.sources a { color: var(--primary); text-decoration: none; word-break: break-word; }
-.sources a:hover { text-decoration: underline; }
-.sources em { font-style: italic; }
+.talk-wrap { max-width: 820px; }
+.talk-tip { padding: 26px 0; border-top: 1px solid var(--border); }
+.talk-tip:first-of-type { border-top: none; padding-top: 8px; }
+.talk-tip h3 { font-size: 18px; font-weight: 700; color: var(--ink); line-height: 1.35; margin-bottom: 10px; }
+.talk-tip p { font-size: 15px; color: var(--ink-soft); line-height: 1.7; margin: 0; }
 </style>
 </head>
 <body>
@@ -274,73 +274,43 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   </div>
 </nav>
 
-<section class="law-section" style="padding-top: 48px;">
+<section style="padding-top: 48px;">
   <div class="container">
     <div class="section-head">
       <div>
-        <h2>Law &amp; Your Rights</h2>
-        <p>Complicated regulatory information made simple.</p>
+        <h2>Talk to Your Child — <em style="font-family: 'Source Serif 4', serif; font-style: italic; color: var(--primary);">it’s a toy, not a friend</em></h2>
+        <p>How to introduce an AI toy honestly, set boundaries, and keep the conversation going as your child grows.</p>
       </div>
       <a href="index.html" class="view-all">← Back to home</a>
     </div>
 
-    <div class="law-article">
+    <div class="talk-wrap">
 
-      <div class="law-entry" id="safe">
-        <span class="law-tag">EU</span>
-        <h3>Is Your Child’s AI Toy Actually Safe?</h3>
-        <p>In 2024, the European Union (EU) adopted the world’s first comprehensive law on Artificial Intelligence, called the “AI Act”. Because of that, the EU is widely seen as one of the most advanced regulators of Artificial Intelligence in the world, and together with strict toy-safety and cybersecurity rules, the EU offers children among the most far-reaching legal protection around children’s toys in the world. However, the legal situation is not perfect, and parents should not assume that every toy on the European market is automatically perfectly safe — especially if the toy in question is a product of fast-moving AI technologies.</p>
-        <p>By staying informed about how AI toys work and making careful choices, parents can and should add an important extra layer of protection for their children.</p>
+      <div class="talk-tip">
+        <h3>Start with an honest, age-appropriate explanation</h3>
+        <p>You do not need to explain how AI works in technical terms. For young children, saying ‘this is a robot toy that can talk and respond to you, but it is not alive and it does not have feelings’ is a good starting point. Older children can handle more detail about what AI actually is and how it differs from other toys and from humans.</p>
       </div>
 
-      <div class="law-entry" id="regulation">
-        <span class="law-tag">EU</span>
-        <h3>EU Regulation on Toy Safety: Status Quo</h3>
-        <p>Since 2009, EU toy-safety law was based on rules written long before Artificial Intelligence became a feature one could find in children’s toys. Those old rules focused on the kinds of dangers parents have always worried about (toxic chemicals, sharp edges, choking hazards), but did not address the topic of AI and internet-connected toys.</p>
-        <p>Only very recently, on 12 December 2025, the EU replaced the outdated law with a new, 85-page updated regulation called Regulation (EU) 2025/2509 on the Safety of Toys. All of the classic safety checks still apply in an updated form, but the new rules go further, because today’s toys require stricter regulation.</p>
+      <div class="talk-tip">
+        <h3>Set boundaries from the beginning</h3>
+        <p>Decide in advance when and how long your child can use the AI toy, and stick to it. Predictable, limited use is one of the most effective ways to prevent emotional dependence.</p>
       </div>
 
-      <div class="law-entry" id="passport">
-        <span class="law-tag">EU</span>
-        <h3>Scan a Code, Know What’s Inside</h3>
-        <p>The new Regulation (EU) 2025/2509 on the Safety of Toys requires that AI-powered toys comply with the AI Act (including cybersecurity, personal data protection, and privacy requirements). As a result, certain AI toys which may encourage dangerous behaviour in children will lead to complete bans on the European market. The new regulation also tightens obligations for online sales and imports, aiming to catch unsafe toys that enter the EU market through online platforms or from outside the EU.</p>
-        <p>One of the most practical changes for parents is something called the Digital Product Passport. This means that every toy sold in the EU will have to come with extensive documentation which can be easily accessed. To access it, parents will simply have to scan a code (like a QR code) on the toy or its packaging. In seconds, key information about what the toy is made of, whether it meets EU safety standards, and any important warnings will be available — all in a clear, digital format.</p>
-        <p>The passport isn’t just useful for parents. It also gives customs officials and regulators a faster, more reliable way to check whether toys made outside the EU are actually safe and legal before they ever reach the European shop shelves.</p>
+      <div class="talk-tip">
+        <h3>Watch for signs of unhealthy attachment</h3>
+        <p>It is normal for children to enjoy playing with an AI toy and to start treating toys as friends. However, you should be concerned if your child is distressed when separated from it, prefers the AI toy over human interaction, or seems confused about whether the toy is alive. If you notice these signs, gently decrease the toy’s presence, replace it with traditional toys, talk with your child, and seek professional help if you conclude that you need expert guidance.</p>
       </div>
 
-      <div class="law-entry" id="transition">
-        <span class="law-tag">EU</span>
-        <h3>The New Law Exists, But 2030 Is Still Far Away</h3>
-        <p>By passing the new Regulation on the Safety of Toys, the EU positions itself as the world’s strictest standard for chemical toxicity and physical safety in toys. However, even though the new regulation formally entered into force on 1 January 2026, it will only start applying after a transition period of four and a half years, on 1 August 2030.</p>
-        <p>What does this mean for children and parents? In practice, the old rules from the outdated directive still govern most toys on the market today, while the new, stronger protections are only slowly being put in place. In other words, even though the new regulation entered into force a few months ago, it will take a few years before most of its requirements actually apply. Authorities and manufacturers are using this period to prepare systems such as the above-mentioned Digital Product Passport and new testing procedures — but children are already playing with internet-connected and AI-enabled toys now.</p>
-        <p>For parents, the key message is this: the EU law is moving in the right direction, yet there is still a gap between future legal protections and the everyday risks that current toys may pose to children’s wellbeing.</p>
+      <div class="talk-tip">
+        <h3>Keep the conversation going as your child grows</h3>
+        <p>A five-year-old and a ten-year-old must be approached differently. Revisit the important topics as your child matures, explaining that AI toys are designed to seem friendly, but that this is different from a real human-to-human friendship. Decide on appropriate explanations depending on your child’s age.</p>
       </div>
 
-      <div class="law-entry" id="coppa">
-        <span class="law-tag">US</span>
-        <h3>COPPA</h3>
-        <p>The US rule on data collection from children under 13 — relevant if a toy is made by a US company or sold there.</p>
+      <div class="talk-tip">
+        <h3>AI toys work best alongside human interaction, not instead of it</h3>
+        <p>Make sure your child has plenty of play, conversation, and learning time with other people and children. An AI toy can be a fun addition to your child’s life, but it should not in any way be a substitute for human relationships.</p>
       </div>
 
-      <div class="law-entry" id="complain">
-        <span class="law-tag">Regulators</span>
-        <h3>Who to Complain To</h3>
-        <p>ICO, Ofcom, the CMA, the FTC, eSafety — direct links to file a complaint about an AI toy that’s stepped out of line.</p>
-      </div>
-
-    </div>
-
-    <div class="sources">
-      <h3>Sources</h3>
-      <ol>
-        <li>Get Ready Compliance. (n.d.). <em>New EU toy safety regulation: Chemical rules, digital toys, and a 2030 deadline.</em> <a href="https://getreadycompliance.eu/ce-marking/new-eu-toy-safety-regulation/" target="_blank" rel="noopener">getreadycompliance.eu</a></li>
-        <li>O’Neill, A., &amp; Burke, C. (2025, November 28). <em>Global toy safety regulations: A comparative analysis of conformity requirements across major markets.</em> Compliance &amp; Risks. <a href="https://www.complianceandrisks.com/wp-content/uploads/2025/11/Global-Toy-Safety-Regulations-A-Comparative-Analysis-of-Conformity-Requirements-Across-Major-Markets-November-2025.pdf" target="_blank" rel="noopener">complianceandrisks.com (PDF)</a></li>
-        <li>European Parliament. (2025, November). <em>Toy safety: How the revised EU rules protect children.</em> <a href="https://www.europarl.europa.eu/topics/en/article/20211202STO18649/toy-safety-how-the-revised-eu-rules-protect-children" target="_blank" rel="noopener">europarl.europa.eu</a></li>
-        <li>European Union. (2009). <em>Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys.</em> EUR-Lex. <a href="https://eur-lex.europa.eu/eli/dir/2009/48/oj/eng" target="_blank" rel="noopener">eur-lex.europa.eu</a></li>
-        <li>European Commission. (n.d.). <em>Toy safety.</em> Internal Market, Industry, Entrepreneurship and SMEs. <a href="https://single-market-economy.ec.europa.eu/sectors/toys/toy-safety_en" target="_blank" rel="noopener">single-market-economy.ec.europa.eu</a></li>
-        <li>Xiao, W., &amp; Gonçalves, A. (2026). The price of play: A scoping review of ethical, privacy, and regulatory challenges in AI toys. <em>Computers in Human Behavior Reports</em>, <em>22</em>, 101015. <a href="https://doi.org/10.1016/j.chbr.2026.101015" target="_blank" rel="noopener">doi.org/10.1016/j.chbr.2026.101015</a></li>
-        <li>EU Digital Product Passport Foundation. (n.d.). <em>Toys digital product passport.</em> <a href="https://eudigitalproductpassport.org/sectors/toys" target="_blank" rel="noopener">eudigitalproductpassport.org</a></li>
-      </ol>
     </div>
   </div>
 </section>

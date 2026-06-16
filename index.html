@@ -164,6 +164,12 @@ section { padding: 72px 0; }
 .script-card h4 { font-size: 17px; font-weight: 700; margin-bottom: 16px; }
 .script-line { font-family: 'Source Serif 4', serif; font-style: italic; font-size: 14px; color: var(--ink-soft); padding: 10px 14px; border-left: 3px solid #fbbf24; background: #fffbeb; margin-bottom: 8px; line-height: 1.5; border-radius: 0 6px 6px 0; }
 .script-line strong { font-style: normal; font-weight: 600; color: var(--ink); }
+.talk-cta { display: inline-flex; align-items: center; gap: 5px; font-size: 15px; font-weight: 700; color: #92400e; text-decoration: none; }
+.talk-cta:hover { gap: 9px; transition: gap 0.15s; }
+.talk-preview { list-style: none; padding: 0; margin: 0; }
+.talk-preview li { position: relative; padding-left: 26px; font-size: 14px; font-weight: 600; color: var(--ink); line-height: 1.45; margin-bottom: 13px; }
+.talk-preview li:last-child { margin-bottom: 0; }
+.talk-preview li::before { content: '✓'; position: absolute; left: 0; color: #d97706; font-weight: 800; }
 
 .tricky-section { background: linear-gradient(180deg, #fef2f2 0%, #fff5f5 100%); }
 .research-section { background: linear-gradient(180deg, #eff6ff 0%, #f5faff 100%); }
@@ -264,7 +270,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
       <a href="tricky.html">Tricky Questions</a>
       <a href="#toys">AI Toys</a>
       <a href="law.html">Law</a>
-      <a href="#talk">Talk to Your Child</a>
+      <a href="talk.html">Talk to Your Child</a>
     </div>
   </div>
 </nav>
@@ -540,20 +546,18 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
     <div class="talk-section">
       <div>
         <h2>Talk to Your Child — <em>it's a toy, not a friend</em></h2>
-        <p>Age-banded scripts and conversation starters for the moment your child unwraps an AI toy. Honest, kind language you can actually use at home.</p>
-        <div class="age-bands">
-          <div class="age-band">Ages 3–5 <span>→</span></div>
-          <div class="age-band">Ages 6–8 <span>→</span></div>
-          <div class="age-band">Ages 9–12 <span>→</span></div>
-          <div class="age-band">Teens 13+ <span>→</span></div>
-        </div>
+        <p>How to introduce an AI toy honestly, set boundaries, and keep the conversation going as your child grows.</p>
+        <a href="talk.html" class="talk-cta">Read full guide →</a>
       </div>
       <div class="script-card">
-        <div class="script-label">Sample script · Ages 6–8</div>
-        <h4>Why your toy isn't really your friend</h4>
-        <div class="script-line"><strong>You:</strong> "I love that you like Miko. Can I tell you something interesting about how it works?"</div>
-        <div class="script-line"><strong>You:</strong> "Miko is brilliant at chatting, but it doesn't feel things the way you do. It's a clever computer pretending to be a friend."</div>
-        <div class="script-line"><strong>You:</strong> "If it ever says something that feels weird or makes you sad, come and tell me. You won't be in trouble."</div>
+        <div class="script-label">How to introduce AI toys</div>
+        <ul class="talk-preview">
+          <li>Start with an honest, age-appropriate explanation</li>
+          <li>Set boundaries from the beginning</li>
+          <li>Watch for signs of unhealthy attachment</li>
+          <li>Keep the conversation going as your child grows</li>
+          <li>Use AI toys alongside human interaction, not instead of it</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -596,7 +600,7 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
           <li><a href="tricky.html">Tricky Questions</a></li>
           <li><a href="#toys">AI Toys</a></li>
           <li><a href="law.html">Law &amp; Rights</a></li>
-          <li><a href="#talk">Talk to Your Child</a></li>
+          <li><a href="talk.html">Talk to Your Child</a></li>
         </ul>
       </div>
       <div class="footer-col">
