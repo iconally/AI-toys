@@ -174,16 +174,16 @@ section { padding: 72px 0; }
 .research-section { background: linear-gradient(180deg, #eff6ff 0%, #f5faff 100%); }
 .tricky-intro { background: white; border: 1px solid #fecaca; border-left: 4px solid var(--red); border-radius: 12px; padding: 20px 24px; margin-bottom: 32px; font-size: 14px; color: var(--ink-soft); line-height: 1.6; }
 .tricky-intro strong { color: var(--red); }
-.tricky-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-.tricky-card { display: block; text-decoration: none; color: inherit; background: white; border: 1px solid var(--border); border-radius: 14px; padding: 18px 16px 16px; transition: all 0.15s; cursor: pointer; }
-.tricky-card:hover { box-shadow: var(--shadow-md); border-color: #fecaca; }
+.tricky-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.tricky-card { display: block; text-decoration: none; color: inherit; cursor: pointer; }
+.tricky-card:hover .tricky-scenario { border-color: var(--red); box-shadow: var(--shadow-md); }
 .tricky-tag { display: inline-block; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 3px 8px; border-radius: 4px; margin-bottom: 12px; background: var(--red-soft); color: var(--red); }
 .tricky-tag.warn { background: var(--amber-soft); color: var(--amber); }
 .tricky-card h4 { font-size: 16px; font-weight: 700; margin-bottom: 12px; line-height: 1.3; }
 .tricky-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
 .tricky-tags .tricky-tag { margin-bottom: 0; text-decoration: none; cursor: pointer; transition: filter 0.15s; }
 .tricky-tags a.tricky-tag:hover { filter: brightness(0.92); }
-.tricky-scenario { background: var(--bg-soft); border-radius: 10px; padding: 14px 16px; margin-bottom: 0; }
+.tricky-scenario { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; margin-bottom: 0; transition: all 0.15s; }
 .tricky-line { font-size: 13px; margin-bottom: 6px; line-height: 1.5; }
 .tricky-line:last-child { margin-bottom: 0; }
 .tricky-line .who { font-weight: 700; color: var(--ink); font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; display: block; margin-bottom: 2px; }
