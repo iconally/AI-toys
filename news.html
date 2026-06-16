@@ -141,7 +141,8 @@ section { padding: 72px 0; }
 .news-summary { font-size: 12.5px; color: var(--muted); line-height: 1.45; }
 .incident { padding: 12px 0; border-top: 1px solid var(--border); }
 .incident:first-of-type { border-top: none; padding-top: 4px; }
-.severity-row { display: flex; gap: 8px; align-items: center; margin-bottom: 6px; }
+.severity-row { display: flex; gap: 8px; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+.incident-meta { font-size: 11px; color: var(--muted); font-weight: 600; text-align: right; }
 .severity { font-size: 10.5px; font-weight: 700; padding: 2px 7px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.04em; }
 .severity.high { background: var(--red-soft); color: var(--red); }
 .severity.medium { background: var(--amber-soft); color: var(--amber); }
@@ -366,10 +367,11 @@ iconify-icon { display: inline-flex; vertical-align: middle; line-height: 1; }
   function incidentCard(it){
     var sev = (it.severity||'medium').toLowerCase();
     var sevLabel = sev.charAt(0).toUpperCase()+sev.slice(1);
-    var toy = it.toy ? '<span class="incident-toy">'+esc(it.toy)+'</span>' : '';
+    var meta = [it.source, it.date].filter(Boolean).map(esc).join(' · ');
+    var metaHtml = meta ? '<span class="incident-meta">'+meta+'</span>' : (it.toy ? '<span class="incident-toy">'+esc(it.toy)+'</span>' : '');
     var title = esc(it.title);
     var titleHtml = it.url ? '<h4><a class="incident-link" href="'+esc(it.url)+'" target="_blank" rel="noopener">'+title+'</a></h4>' : '<h4>'+title+'</h4>';
-    return '<div class="incident"><div class="severity-row"><span class="severity '+esc(sev)+'">'+esc(sevLabel)+'</span>'+toy+'</div>'
+    return '<div class="incident"><div class="severity-row"><span class="severity '+esc(sev)+'">'+esc(sevLabel)+'</span>'+metaHtml+'</div>'
       + titleHtml + (it.desc ? '<p>'+esc(it.desc)+'</p>' : '') + '</div>';
   }
   function load(url, el, render, empty){
