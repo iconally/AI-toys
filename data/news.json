@@ -1,47 +1,110 @@
 [
   {
-    "source": "TechRepublic",
-    "date": "4 Jun 2026",
-    "tag": "privacy",
-    "tagLabel": "Privacy",
-    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
-    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
-  },
-  {
-    "source": "BBC",
-    "date": "13 Mar 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys for young children need tighter rules, researchers warn",
-    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
-  },
-  {
-    "source": "WIRED",
-    "date": "8 May 2026",
+    "source": "Mashable",
+    "date": "1 week ago",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
+    "headline": "'Toy Story 5' review: AI toys are the hook, not the heart of this comedy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHcnQ2YjhrX0wwR0dHeE1YYTZtNnRWYmN0MTRlYWt2UVozM2VORFZMbW5iSE9KeGlydHUyN2FnbEM2RGpOdXZ1N1BBTmtycFZyR1AtTmFnZnhCZVdWaUFmRTNNYw?oc=5\" target=\"_blank\">'Toy Story 5…",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHcnQ2YjhrX0wwR0dHeE1YYTZtNnRWYmN0MTRlYWt2UVozM2VORFZMbW5iSE9KeGlydHUyN2FnbEM2RGpOdXZ1N1BBTmtycFZyR1AtTmFnZnhCZVdWaUFmRTNNYw?oc=5"
+  },
+  {
+    "source": "TechRadar",
+    "date": "1 week ago",
+    "tag": "privacy",
+    "tagLabel": "Privacy",
+    "headline": "Experts warns AI toy apps for kids are tracking users and collecting personal data",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1BDV0U0d193SnlaVXpyUXBMWlNhTmJSYm5McTJGTVV6aEV5OC00MVZlWkRpUGdlMWxQRlRXTjlEV1h3Vll4YUpRb3NlcmZsQlNxdkpHNUtkQXZmb1hXeU9WSzZacWt5U3RNXzZXVDBYRzZnQlA4OEl5aFNxR…",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1BDV0U0d193SnlaVXpyUXBMWlNhTmJSYm5McTJGTVV6aEV5OC00MVZlWkRpUGdlMWxQRlRXTjlEV1h3Vll4YUpRb3NlcmZsQlNxdkpHNUtkQXZmb1hXeU9WSzZacWt5U3RNXzZXVDBYRzZnQlA4OEl5aFNxRW9kRWM2cXROYURXTWdEWGgzRVo1SGF2R0xXZU5mRXJOZTVlZnBkUUJJMGJ5MHhGMGxSOTV5SmR0VGdmTUZTQU9R?oc=5"
+  },
+  {
+    "source": "AOL.com",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Debunking AI: Toy Story 5 Stars Joan Cusack & Greta Lee Debate Lilypad's Villainy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1WZTVYYjVhd0YxTHNiMHBMNTNOa0ZtVzAya2t3bTlaSUw4b3pVTl9ZeUNJRFNZM3h2ZVRYZmpSaDJ6WGdYeWxKYUNCRnNkM1lQR1VETzgyTGcxamlJZXcydkY4ZHdPMHBrTGlQQ19ydjlKWEpzM190dUxXZ2lUQ…",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WZTVYYjVhd0YxTHNiMHBMNTNOa0ZtVzAya2t3bTlaSUw4b3pVTl9ZeUNJRFNZM3h2ZVRYZmpSaDJ6WGdYeWxKYUNCRnNkM1lQR1VETzgyTGcxamlJZXcydkY4ZHdPMHBrTGlQQ19ydjlKWEpzM190dUxXZ2lUQQ?oc=5"
+  },
+  {
+    "source": "Tom's Guide",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "This viral AI toy will get your kids off their devices, and it's on sale for Prime Day",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFpYcFFfMDB2Y0Q5cnB2RXBjVThkUlpVdlFOSXhWVjJKYWtSVXlwaUhnVmx4d3RYRER2OGtPSndPS3NXa3QyUjlSQ2g5MDQ1dzByS2NJSmJQeE1QUm80N1ZiUjNSOTlDSWRLcHFSVVRyMUZlV05penQ3dGZZV…",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFpYcFFfMDB2Y0Q5cnB2RXBjVThkUlpVdlFOSXhWVjJKYWtSVXlwaUhnVmx4d3RYRER2OGtPSndPS3NXa3QyUjlSQ2g5MDQ1dzByS2NJSmJQeE1QUm80N1ZiUjNSOTlDSWRLcHFSVVRyMUZlV05penQ3dGZZVWpnYkpZZDQxTUpiZ0hvTWJHLXR0LUlUNEFEUWs2QXNFNTNoVVp0TEhuVkdJRXBaclN6WjA0WQ?oc=5"
+  },
+  {
+    "source": "Female First",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Experts issue warning about AI toy apps",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm9nMDBPbGxrMDVMMjdmQ0Rwd1hhWEdQQnNMaElsV0ZjcTVVU1VNc01RVEExY2pEblo5YkZiYWRpVWptOWpEbUwzbGhJSDdUYml2LVM4OUt2QzNDcVllUVVsa1JzZ1I3WmFCUlZwMmVHNnNPQUtQUERNU2RHV…",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcm9nMDBPbGxrMDVMMjdmQ0Rwd1hhWEdQQnNMaElsV0ZjcTVVU1VNc01RVEExY2pEblo5YkZiYWRpVWptOWpEbUwzbGhJSDdUYml2LVM4OUt2QzNDcVllUVVsa1JzZ1I3WmFCUlZwMmVHNnNPQUtQUERNU2RHVXh2YnMxR2xxNkpqWDAw?oc=5"
   },
   {
     "source": "Business Insider",
-    "date": "4 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
-    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+    "date": "2 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "I spent a year using AI. It changed how I parent my kids.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmpyX3ZvTm5LQk9ZMDNHdUFBN1VBSHlTN2h5UUJKOFRKYmhEVjdqOTNtczR4N29hZnlfNTZHNktQcWhTSjRPdEFvbEtHWk0wdzJrczJETy1XcXpEdDlZN0RmWjh5V2RyR3Vfdk15QnlTQzNRdlN1S2xSeThWM…",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmpyX3ZvTm5LQk9ZMDNHdUFBN1VBSHlTN2h5UUJKOFRKYmhEVjdqOTNtczR4N29hZnlfNTZHNktQcWhTSjRPdEFvbEtHWk0wdzJrczJETy1XcXpEdDlZN0RmWjh5V2RyR3Vfdk15QnlTQzNRdlN1S2xSeThWMEQ1NEVpcWhBSXpqV25z?oc=5"
   },
   {
-    "source": "The Conversation",
-    "date": "3 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
-    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
+    "source": "Gasgoo",
+    "date": "2 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "AI Pets Are Booming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTJwMDhPQWR5LUk5akVuUUJROURnYlA3R3VTSzM0M3VuLWk5R1VWbE9lbFZ5bXFORVA2aXFGZmpYbjJaWkQtaXhMQjdobmI1WVZpU3hjZ3hYaXpwRmxILXVJYkJ0WTJrcVFLWmpqcGlscVBZRWR5eUpkaHJSR…",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTJwMDhPQWR5LUk5akVuUUJROURnYlA3R3VTSzM0M3VuLWk5R1VWbE9lbFZ5bXFORVA2aXFGZmpYbjJaWkQtaXhMQjdobmI1WVZpU3hjZ3hYaXpwRmxILXVJYkJ0WTJrcVFLWmpqcGlscVBZRWR5eUpkaHJSRHQ4c3VVWDRNbFNF?oc=5"
+  },
+  {
+    "source": "Stock Titan",
+    "date": "5 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Jinxin’s screen-free AI plush toys target China’s RMB 38.3B kids market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcldkZl9qWTRvNnRaemRtZFRMTms3WFVnNEJqN2U4eXBEU25rSDlxMFRSdHp6UzE4R2E4NnNETlR3SnFOREgyTjYzVS1OajB3dU9qX1IzaVE3T01VR2lBTTllTThiaVJ1MWVNM1ViUERuSHFfbDRRWFMwNjlmQ…",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcldkZl9qWTRvNnRaemRtZFRMTms3WFVnNEJqN2U4eXBEU25rSDlxMFRSdHp6UzE4R2E4NnNETlR3SnFOREgyTjYzVS1OajB3dU9qX1IzaVE3T01VR2lBTTllTThiaVJ1MWVNM1ViUERuSHFfbDRRWFMwNjlmQWJpcThGNXUzWkFSbFhZRkljdS1QV3BRR2s5V1FZQTJ6aFhpTzJzM1N0Z1pGN1hsQnoyQzFKSUhicW1TS2tQQ3dDZw?oc=5"
+  },
+  {
+    "source": "Alwihda Info",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Shantou Drives AI Token Export Boom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9qMmdEbTRxWWVoSzdLdjV0OW9qUXZTdWl6eVotMDRmRURILWxKTlRsNkhPUW9mUkRjU0ktd0h5ZnJzbjFCRk9oYnZ6cVAwTWxzRDZZVzdIU1Mxakd3anRYVG1mTkx5N3JQZkJlOFlYRU5HUQ?oc=5\" target=\"…",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMmdEbTRxWWVoSzdLdjV0OW9qUXZTdWl6eVotMDRmRURILWxKTlRsNkhPUW9mUkRjU0ktd0h5ZnJzbjFCRk9oYnZ6cVAwTWxzRDZZVzdIU1Mxakd3anRYVG1mTkx5N3JQZkJlOFlYRU5HUQ?oc=5"
+  },
+  {
+    "source": "New York Post",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Viral Nex Playground just dropped $75 for Prime Day — Here’s why families are buying it",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYml6ZVR3QldFU0ZUaTc2UWo5UWxIajJNWHVTQnpVTmtfR2hvUE1WbVFTVnFKVWlsa29GZm9OWk42T0FGZVU3NE9SNFVkcE9LNGJyRkszTzFkcVZ2M0txdTA1dEhvSHhJd0kwWXBwTUgzU3lxYkpiTDY3Y20yW…",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYml6ZVR3QldFU0ZUaTc2UWo5UWxIajJNWHVTQnpVTmtfR2hvUE1WbVFTVnFKVWlsa29GZm9OWk42T0FGZVU3NE9SNFVkcE9LNGJyRkszTzFkcVZ2M0txdTA1dEhvSHhJd0kwWXBwTUgzU3lxYkpiTDY3Y20yWnYxSTRkWkZPb1ctWEViTGhoTmRJaGZCTlpRbnhEY2xKeVlJTjlj?oc=5"
+  },
+  {
+    "source": "WION",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Can AI replace Tom Hanks from Toy Story films? Actor reveals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU9KdE4ySE5sU09XTUhPb2QtaUhpcFI0djhkX2I4Q2hfZVp0aERZSXZrbjRraHJLUmJDa3ZjeFNhUV9SQ0tUaEJueDBValpMQnJrdFc2eGR4X3VzTER1N2l4Q0RBTDl4eXpPaTZoNm5UdVBlV2UxQktocUJXU…",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU9KdE4ySE5sU09XTUhPb2QtaUhpcFI0djhkX2I4Q2hfZVp0aERZSXZrbjRraHJLUmJDa3ZjeFNhUV9SQ0tUaEJueDBValpMQnJrdFc2eGR4X3VzTER1N2l4Q0RBTDl4eXpPaTZoNm5UdVBlV2UxQktocUJXUVZpY0IxalVpRDZiU1RmY0RYQ0ZkbUZwY0k0MXB1U2VydTQ3dkJWTi1QRWs5T2NDdkoyYXdUR0liTmNWRWZOSnln0gHDAUFVX3lxTE1WdDMtd2RCRnBLQWpmUlFPdEFjd1Z0VmU5VzQ3dlMxS3pMTGNoR0RzQy1tOWp4Y1QxOFpXT2VEWUh6cG9HU0sxZTI0elVsUThhOVNWMzZ1VFVuSmVvVHRXYkJkNkNCb3Q1THMwWDRaNmtvYkFOcG9BT2pzX3RycUZiYjlUY0I3UTZwVEk2Qng0SFk2MURkYWxqOGFHd2pWcFA3Wkl0SEk2bmlNOFdFSzVYMFNYSjIxZU5rcEZRT2hOWWpWRQ?oc=5"
+  },
+  {
+    "source": "Big News Network.com",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "HUNGARY-BUDAPEST-SILK CIVILIZATION DIALOGUE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2pwdnQwRkVtcUFpekd3RDVwUjhQMlA4bEIwM3BOTmN5c2p0MjZMTlk3WW1EX2E0TE9WcEMxNGZNYU1mTkZac1VmeWxXQzdGcUtEaC0tMkdsSGV4ZmtWT2pjYzF2RDBlWTZycVY5Wl9KZENnNTZYZ3cwVXJBa…",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2pwdnQwRkVtcUFpekd3RDVwUjhQMlA4bEIwM3BOTmN5c2p0MjZMTlk3WW1EX2E0TE9WcEMxNGZNYU1mTkZac1VmeWxXQzdGcUtEaC0tMkdsSGV4ZmtWT2pjYzF2RDBlWTZycVY5Wl9KZENnNTZYZ3cwVXJBaV9WV1hPNmRjX1ZmTHc2c1F4dkZMN1U?oc=5"
   }
 ]
