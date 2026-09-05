@@ -1,47 +1,72 @@
 [
   {
-    "severity": "high",
+    "severity": "medium",
     "toy": "",
-    "title": "AI toys for kids talk about sex and issue Chinese Communist Party talking points, tests show",
-    "desc": "Testing found some AI toys would discuss sexual topics and political talking points with children.",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT09iVnRnTS1La3BxcDJHRG8xYkhWd3Y2b0J5UDU2eEY1Z1dmZFNYcEwxU0JOQ2hPUzJCQ2hOVlFGYi1zZ05aaEU4ZnpnRlJtamZlQm4wek1wN1FvLW5VLXBUYUJtZ20tOGVSX2xsRUNzZ2VfQVJVeXFDczRjR29SWHNwaVppSktBcGxTaDcxd2dVMEJ1Y004TjUyOFRlN0FzRVIydGRMY0tLZHE1U0lvVXJiQ3FsQQ?oc=5",
-    "source": "NBC News",
-    "date": "11 Dec 2025"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
-    "desc": "A misconfiguration left tens of thousands of children’s chat logs accessible to anyone with a Gmail account.",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVpZMGQ2VUR3bk9YZEhtczdTTmRGNnZaMUN3X2ZuM0VoUHFhcUV4SHdqT1pjTG10UTg4RFdFYTctRVMxZ2tUbDE2SFZSU3dIdTVNZl9heE0zdVFteG04S2VlcEpDMjdKdnplRFNCb3Zwa19IenNka1ZrYldsak1DQS00Mk5sNDdvbzVISlcxWklJRF8wcElybTR1VnJZMjBSc0dGRzZvd1ltSEVPano0RA?oc=5",
-    "source": "WIRED",
-    "date": "29 Jan 2026"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "AI toy apps for children request dangerous permissions and include third-party trackers",
-    "desc": "Analysis found AI-toy companion apps requesting risky device permissions and bundling third-party trackers.",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclYzdkxJTzU1WXN1alRrSnREV08zVUFqMEJnbHZjeFBEMVZfb1JBcUh6QWZoNll6am0tdE5obTBhSm5pZzRZdExBQWxoQmVJUWpPcjhfX29oMmR6c3c2RlhxTS1CZnl6VTZCTXZlOXo1dmJwenlKZENYODRqWnVmclZHaGNfVHBTWEZES21yc1RfN1c2SmxUTmtST0FVY1Y2ZkVMY0FWbGNFN2djSjUzU1FkUlRRc1JpYUE?oc=5",
-    "source": "Cybernews",
-    "date": "9 Jun 2026"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "AI toys say the darndest things — kinks to knives. New York lawmakers just passed a 5-yr ban",
-    "desc": "After tests surfaced harmful responses, New York lawmakers passed a multi-year ban on certain AI toys.",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3JWOWlYRHF5MUhqZ0RCWjhIWnFjYXQxcWtKR08xTWJ5MXdsZTJkV3I2TWpHYXhTNXp3a2FvYWRmeC1CdlE3ZlBVUHN1STZFaktZemJTU3JaMHNJaGxRSDJXanFXNlJQME1FUndfSFVraVRVajVJYW5ESEpsZXB3QzRBSk0wVEFlUzc0Z1JrRTZhUjlScVlIOG9BR0ZjcGxnZ1NxWFdIaTFreHpBSzlnWUZFNWs3VXppY3p2bF8wakdpMTZP0gHKAUFVX3lxTE9tTmtwR3FhODJKXzkxMzZKRnByUzhRTUszUUVTeHhKUldZQ1RXNXFiNlhhcU9HS2tpQ1YxSHdOMmdqelZiOGlKYUlmRkVfSXZ2eE5RbFB2eE04ZjhWWjBmT29TTzV6Z0k0TmpCeHlBV0VjUVlaTUV1SFV2a2E0RHJGc3AxekFNUUlVa0Y2X2s5S09sSFdtY2pta2hzYVBlcDN5clJ4bmhUMExUZzVfeVNDb1RZUjZHX0lVTGdScnYzRTBpZVlodWJlTUE?oc=5",
-    "source": "ThePrint",
-    "date": "11 Jun 2026"
+    "title": "Video: Curiosity, frustration and antipathy: How kids play with AI toys",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZlZmTi0tN0plM2kyR0tNRHpkNHFIQnZjemdGWERWczlKeV90U2RCMlJGVVNDaWlCT1hiUkNSUWl3X3ltTDFocmpOaW5rVkJ0bndTR0xSYTBVRmppRlpmU…",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZlZmTi0tN0plM2kyR0tNRHpkNHFIQnZjemdGWERWczlKeV90U2RCMlJGVVNDaWlCT1hiUkNSUWl3X3ltTDFocmpOaW5rVkJ0bndTR0xSYTBVRmppRlpmUXFtZGw3R292Tl9kekt1d24zMExwektnWVRR?oc=5"
   },
   {
     "severity": "medium",
     "toy": "",
-    "title": "‘Dangerous, Manipulative Tendencies’: The Risks of Kid-Friendly AI Learning Toys",
-    "desc": "Educators flag manipulative tendencies in kid-focused AI learning toys.",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3VfOTNTeEFKdC1zdVdkZ2c3M1dXNjJqNGVWcEFEbGdEcmFBMGZ0Z1lIYWMyMEZEUXJnZ2hTZnhtUmwxQlRtWENGbWZFSVN1czl3X2tvQUhWYUdzbml4azc3V2h4NmEyQzVtSWNiNXp1eWRxVjJ6QWtlTG9MaklDYjVVN19ORzhfMGxsbG1TUnR2TUduUEp6YWxOb0ptWl9BN3RKbk9PMWJBQi1ablNJa2t0c1Y3X09jbmc?oc=5",
-    "source": "Education Week",
-    "date": "22 Jan 2026"
+    "title": "California legislature sends AI toy restrictions to Governor Newsom",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0p0NUZ4U1U4ZVFUNzJPOTNJMW1jRlBGdkUtZXlvcGlGUHc5dEE5aXRsWWZ3dEtQMU1fVUdiRTl6emt5aHlHY3NCNVI5X1c2a1BEQUF5d3lDaGpxSFBJV…",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0p0NUZ4U1U4ZVFUNzJPOTNJMW1jRlBGdkUtZXlvcGlGUHc5dEE5aXRsWWZ3dEtQMU1fVUdiRTl6emt5aHlHY3NCNVI5X1c2a1BEQUF5d3lDaGpxSFBJVXhXTEN1YjVNXzR6RURIaXd1TFRYbncyb2lsbHZ0Y0otc3FoTkoxVmVtYkNjOERzektweE9OWVZPWjhYYU5WY3p1Wkx1Mm12Ulc3cXNMQzV2ZlZ6aF9oSE1UY25FSWdDUmJSa1ppS0w1YU1OeU5DZWpKNjBJN1pR?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "AI toys are teaching Chinese Gen Alpha friendship",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVSV1otTGoxNERMdDRnYkVFcmFPU1pTN1IxTzBEV0RIUDZ2bWNjR0RGeHFiUG0wSUgzUW5XWUQzMnBkNjBaVTktSkFSMHdoNXpYMk9pYXRmNzBQQ2xEM…",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVSV1otTGoxNERMdDRnYkVFcmFPU1pTN1IxTzBEV0RIUDZ2bWNjR0RGeHFiUG0wSUgzUW5XWUQzMnBkNjBaVTktSkFSMHdoNXpYMk9pYXRmNzBQQ2xEMGk0cWFyZkc5dXBDQVprTGtVN253T05BWWsxRXV6bkJBRWVzQQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Stickerbox Review: What to Know About The AI Toy That Keeps Selling Out",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VeVF6aktJcXJtZDBhN3pQRzc3SG1EbThpUG9lcGJWcUtFY3h6S2JzaXUzQ2hTcmprMUFFVmpsaTFrWWRab3RSTGNGb2NSbmYtdGdFdA?oc=5\" target=\"…",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VeVF6aktJcXJtZDBhN3pQRzc3SG1EbThpUG9lcGJWcUtFY3h6S2JzaXUzQ2hTcmprMUFFVmpsaTFrWWRab3RSTGNGb2NSbmYtdGdFdA?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Kids met a new generation of AI toys and weren’t impressed",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUhoSFFTTzk1Zm1JSFNfcDdfUk1IOUNyMkxPcThCNXJwd08wX09GVkQ0Ykoxb1F5RWp0VGpYT0wtQWJPWEhJQnlpR1BPcUFRWDlPZmQtYkItcFJ3XzV4W…",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUhoSFFTTzk1Zm1JSFNfcDdfUk1IOUNyMkxPcThCNXJwd08wX09GVkQ0Ykoxb1F5RWp0VGpYT0wtQWJPWEhJQnlpR1BPcUFRWDlPZmQtYkItcFJ3XzV4WkwzNEFnS3JKNnZPOVA4SFdGRkhSRVY2OVRBVW5XQ21xRDdVU2RUX1N4Z1BmNzR3RnRhQQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Study Watched Kids Interact With AI Toys. The Play Turned Hostile Fast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5\" tar…",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Global AI Toy Solutions Market Size: Expected to Reach 2.13 Billion USD by 2026｜QYResearch",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MEtCUi1HR0piMFpuaElDdGkyMXgzVDcyM2ZOUGVyWmtDb0RwY3pDemM5N2swQkhaaTZIMXdOT2Y5VmFSNE9wMTEzT1RKZTNSSm0zcGt3TndlcjkyQm9J?…",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95MEtCUi1HR0piMFpuaElDdGkyMXgzVDcyM2ZOUGVyWmtDb0RwY3pDemM5N2swQkhaaTZIMXdOT2Y5VmFSNE9wMTEzT1RKZTNSSm0zcGt3TndlcjkyQm9J?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Bots for tots: welcome to the terrifying era of AI toys",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPOG1JSXhtc0JaSldFMkxpekNEX3RueFpyZFJrU3dtOHdDcHFSQTFUNnNyNDNiTDBaUmFqemh2WUxVd2phdTRxaTFhNDBFazkwOV9RdU5HVGdYckxuaXd5W…",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOG1JSXhtc0JaSldFMkxpekNEX3RueFpyZFJrU3dtOHdDcHFSQTFUNnNyNDNiTDBaUmFqemh2WUxVd2phdTRxaTFhNDBFazkwOV9RdU5HVGdYckxuaXd5WHRzdUcxRnhRMXpSNWVudzhWd2otUEVvSGhrSnFmUTd1ckN4YnRNWFBfRXo4NHhYY0VCNGlhR09N?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "‘Microduck’ robot enters growing market of AI toys",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQURrVnJUYUYtX2NlcHRyQ2dFbTUwR1Z6VVFvVjhfMnowOU5neWd1YzEwY09BbTM3ZmlsNGRpS0d6aHNISGgwMjA5NDI0Y1ZKU1dKakRTR3FTMVB3QUNlZ…",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQURrVnJUYUYtX2NlcHRyQ2dFbTUwR1Z6VVFvVjhfMnowOU5neWd1YzEwY09BbTM3ZmlsNGRpS0d6aHNISGgwMjA5NDI0Y1ZKU1dKakRTR3FTMVB3QUNlZXZ2YzF5aTVtdXhRcHZmWVo1TkU0SktqLVFZRGN2WWNzb294aFhnTUE4Z1VkOEdR?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Wildbrain acquires Personality AI",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZkw3VUxhMGxkVlVLNFVFaTI5UDVRYVZMeENoUE04QkJFZFFvZEZlZ09uN0RWeVNhWG1ocGRld0ducVJZaFRIV3RLQVVGU3FOWUMya2VjdEUtMkxjSURtd…",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZkw3VUxhMGxkVlVLNFVFaTI5UDVRYVZMeENoUE04QkJFZFFvZEZlZ09uN0RWeVNhWG1ocGRld0ducVJZaFRIV3RLQVVGU3FOWUMya2VjdEUtMkxjSURtdVVpNDVvTFVnSDBpQjJMZi1EUHJXd2hj?oc=5"
   }
 ]
