@@ -1,47 +1,72 @@
 [
   {
-    "severity": "high",
+    "severity": "medium",
     "toy": "",
-    "title": "AI toys for kids talk about sex and issue Chinese Communist Party talking points, tests show",
-    "desc": "Testing found some AI toys would discuss sexual topics and political talking points with children.",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT09iVnRnTS1La3BxcDJHRG8xYkhWd3Y2b0J5UDU2eEY1Z1dmZFNYcEwxU0JOQ2hPUzJCQ2hOVlFGYi1zZ05aaEU4ZnpnRlJtamZlQm4wek1wN1FvLW5VLXBUYUJtZ20tOGVSX2xsRUNzZ2VfQVJVeXFDczRjR29SWHNwaVppSktBcGxTaDcxd2dVMEJ1Y004TjUyOFRlN0FzRVIydGRMY0tLZHE1U0lvVXJiQ3FsQQ?oc=5",
-    "source": "NBC News",
-    "date": "11 Dec 2025"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
-    "desc": "A misconfiguration left tens of thousands of children’s chat logs accessible to anyone with a Gmail account.",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVpZMGQ2VUR3bk9YZEhtczdTTmRGNnZaMUN3X2ZuM0VoUHFhcUV4SHdqT1pjTG10UTg4RFdFYTctRVMxZ2tUbDE2SFZSU3dIdTVNZl9heE0zdVFteG04S2VlcEpDMjdKdnplRFNCb3Zwa19IenNka1ZrYldsak1DQS00Mk5sNDdvbzVISlcxWklJRF8wcElybTR1VnJZMjBSc0dGRzZvd1ltSEVPano0RA?oc=5",
-    "source": "WIRED",
-    "date": "29 Jan 2026"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "AI toy apps for children request dangerous permissions and include third-party trackers",
-    "desc": "Analysis found AI-toy companion apps requesting risky device permissions and bundling third-party trackers.",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclYzdkxJTzU1WXN1alRrSnREV08zVUFqMEJnbHZjeFBEMVZfb1JBcUh6QWZoNll6am0tdE5obTBhSm5pZzRZdExBQWxoQmVJUWpPcjhfX29oMmR6c3c2RlhxTS1CZnl6VTZCTXZlOXo1dmJwenlKZENYODRqWnVmclZHaGNfVHBTWEZES21yc1RfN1c2SmxUTmtST0FVY1Y2ZkVMY0FWbGNFN2djSjUzU1FkUlRRc1JpYUE?oc=5",
-    "source": "Cybernews",
-    "date": "9 Jun 2026"
-  },
-  {
-    "severity": "high",
-    "toy": "",
-    "title": "AI toys say the darndest things — kinks to knives. New York lawmakers just passed a 5-yr ban",
-    "desc": "After tests surfaced harmful responses, New York lawmakers passed a multi-year ban on certain AI toys.",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3JWOWlYRHF5MUhqZ0RCWjhIWnFjYXQxcWtKR08xTWJ5MXdsZTJkV3I2TWpHYXhTNXp3a2FvYWRmeC1CdlE3ZlBVUHN1STZFaktZemJTU3JaMHNJaGxRSDJXanFXNlJQME1FUndfSFVraVRVajVJYW5ESEpsZXB3QzRBSk0wVEFlUzc0Z1JrRTZhUjlScVlIOG9BR0ZjcGxnZ1NxWFdIaTFreHpBSzlnWUZFNWs3VXppY3p2bF8wakdpMTZP0gHKAUFVX3lxTE9tTmtwR3FhODJKXzkxMzZKRnByUzhRTUszUUVTeHhKUldZQ1RXNXFiNlhhcU9HS2tpQ1YxSHdOMmdqelZiOGlKYUlmRkVfSXZ2eE5RbFB2eE04ZjhWWjBmT29TTzV6Z0k0TmpCeHlBV0VjUVlaTUV1SFV2a2E0RHJGc3AxekFNUUlVa0Y2X2s5S09sSFdtY2pta2hzYVBlcDN5clJ4bmhUMExUZzVfeVNDb1RZUjZHX0lVTGdScnYzRTBpZVlodWJlTUE?oc=5",
-    "source": "ThePrint",
-    "date": "11 Jun 2026"
+    "title": "Video: Curiosity, frustration and antipathy: How kids play with AI toys",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZlZmTi0tN0plM2kyR0tNRHpkNHFIQnZjemdGWERWczlKeV90U2RCMlJGVVNDaWlCT1hiUkNSUWl3X3ltTDFocmpOaW5rVkJ0bndTR0xSYTBVRmppRlpmU…",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xZlZmTi0tN0plM2kyR0tNRHpkNHFIQnZjemdGWERWczlKeV90U2RCMlJGVVNDaWlCT1hiUkNSUWl3X3ltTDFocmpOaW5rVkJ0bndTR0xSYTBVRmppRlpmUXFtZGw3R292Tl9kekt1d24zMExwektnWVRR?oc=5"
   },
   {
     "severity": "medium",
     "toy": "",
-    "title": "‘Dangerous, Manipulative Tendencies’: The Risks of Kid-Friendly AI Learning Toys",
-    "desc": "Educators flag manipulative tendencies in kid-focused AI learning toys.",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3VfOTNTeEFKdC1zdVdkZ2c3M1dXNjJqNGVWcEFEbGdEcmFBMGZ0Z1lIYWMyMEZEUXJnZ2hTZnhtUmwxQlRtWENGbWZFSVN1czl3X2tvQUhWYUdzbml4azc3V2h4NmEyQzVtSWNiNXp1eWRxVjJ6QWtlTG9MaklDYjVVN19ORzhfMGxsbG1TUnR2TUduUEp6YWxOb0ptWl9BN3RKbk9PMWJBQi1ablNJa2t0c1Y3X09jbmc?oc=5",
-    "source": "Education Week",
-    "date": "22 Jan 2026"
+    "title": "AI toys are teaching Chinese Gen Alpha friendship",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVSV1otTGoxNERMdDRnYkVFcmFPU1pTN1IxTzBEV0RIUDZ2bWNjR0RGeHFiUG0wSUgzUW5XWUQzMnBkNjBaVTktSkFSMHdoNXpYMk9pYXRmNzBQQ2xEM…",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFVSV1otTGoxNERMdDRnYkVFcmFPU1pTN1IxTzBEV0RIUDZ2bWNjR0RGeHFiUG0wSUgzUW5XWUQzMnBkNjBaVTktSkFSMHdoNXpYMk9pYXRmNzBQQ2xEMGk0cWFyZkc5dXBDQVprTGtVN253T05BWWsxRXV6bkJBRWVzQQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "California AI Toy Bill Brings Software Behavior Into Product Safety",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0ZleGdfVE83QUpYWVNPMjBubThLOUtVOWFKbUVlOU9UOE54TjF3VWZNSVAyUFQzWXNzZ3NlRjBLWi1pY2FQY2czU3BIVTRkRUk5RWFSM1BnZ0ZlWDY2e…",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0ZleGdfVE83QUpYWVNPMjBubThLOUtVOWFKbUVlOU9UOE54TjF3VWZNSVAyUFQzWXNzZ3NlRjBLWi1pY2FQY2czU3BIVTRkRUk5RWFSM1BnZ0ZlWDY2ekx5RjlhTy1nNm9Wb0FSaW5zd0hPZXVrSmZVSW9TTG1sREhXNG1GS09Oc2JSbEt3MmJGSGFpbVlkUUhrONIBoAFBVV95cUxOVVZFR3VSdGVNZmNPR2tYRnRETGRpLVpNUERSR2xMUTJzRUsyT1dfOEZhclNpUUNjMDItRDlDdHdBbGN2QjRIdlpxYUpsYUM5dVM4am4wdVVnT0hkcGN4bkRqR0lRbXlrcFRDaTlXLTZweEE0c1RPcGkxTHZ3c3R3YzdIbWxNVHlIaHdjYWFKNnZfa1V4OGljTWt5TG9RbC01?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "California legislature sends AI toy restrictions to Governor Newsom",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVJwaHU5MHktQ21mSlZjT2s0aXJ5RUhHdk5Vd1ljSWJMbDduOHBHb25EOHhBLVE1RmIxTVFNQlBfOHVZZjYzczl3YkdvM3dxSEtPdTlvRUE1anRBNHU3R…",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVJwaHU5MHktQ21mSlZjT2s0aXJ5RUhHdk5Vd1ljSWJMbDduOHBHb25EOHhBLVE1RmIxTVFNQlBfOHVZZjYzczl3YkdvM3dxSEtPdTlvRUE1anRBNHU3RUNJaVBrODZVTFNaMkhaeEQ4QnJERzI5d3ZaSGtXQzVhdVdkTEM3UXVKQVN0OWNlc0hoVExweFJFSlVoYw?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Kids met a new generation of AI toys and weren’t impressed",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUhoSFFTTzk1Zm1JSFNfcDdfUk1IOUNyMkxPcThCNXJwd08wX09GVkQ0Ykoxb1F5RWp0VGpYT0wtQWJPWEhJQnlpR1BPcUFRWDlPZmQtYkItcFJ3XzV4W…",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUhoSFFTTzk1Zm1JSFNfcDdfUk1IOUNyMkxPcThCNXJwd08wX09GVkQ0Ykoxb1F5RWp0VGpYT0wtQWJPWEhJQnlpR1BPcUFRWDlPZmQtYkItcFJ3XzV4WkwzNEFnS3JKNnZPOVA4SFdGRkhSRVY2OVRBVW5XQ21xRDdVU2RUX1N4Z1BmNzR3RnRhQQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Robotic duck ignites domestic supply chain; AI toys urgently need \"embodied intelligence\" to break through",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3JYcXg0UUw3N09tOWYzVkNpZ1VPeklqWkFmX2stRDQzMFZ6MHc3V1ctRVFkSWktTXBlckRRZE5RN3VJQ3I0RTUxS2JQRHI4eWFSX3VFTHhCQ2p5cjdqT…",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3JYcXg0UUw3N09tOWYzVkNpZ1VPeklqWkFmX2stRDQzMFZ6MHc3V1ctRVFkSWktTXBlckRRZE5RN3VJQ3I0RTUxS2JQRHI4eWFSX3VFTHhCQ2p5cjdqTXVISWlyOTJoT1pZR2JKajA5UFQyQ2hrMmlGMDJRS0ctZm1pSm84OHlGVzJua1VVTmhSd2ZMNkoyVjBfV2d6azZsc3RLOHdZYTVhUQ?oc=5"
+  },
+  {
+    "severity": "high",
+    "toy": "",
+    "title": "Hundreds of thousands of finger light toys sold on Amazon recalled over swallowing risk",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnc0UmJ6V19leEVtVHFTVWNYT0VJR1RsaVQ1X21PbE1hemNRQ3JBcm1CTVJJdVdtR1lTYTR0eWdQOUEzZ2Q0YjVZY2lodndCZ2x6QWt5SFNJYXdvaVkxS…",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnc0UmJ6V19leEVtVHFTVWNYT0VJR1RsaVQ1X21PbE1hemNRQ3JBcm1CTVJJdVdtR1lTYTR0eWdQOUEzZ2Q0YjVZY2lodndCZ2x6QWt5SFNJYXdvaVkxSUx0SS1IaEd3WmZNclY3bzQ0R3JOSFh2T2hJTGVFN05xS3NhckVMb0xybVZadzA3WFd4bGo3WG4wUklXOGh1QjJWN3dsT3pSMnpjb0h4YWM1eHYtTkxNX2Zw0gG4AUFVX3lxTE12dzRSYnpXX2V4RW1UcVNVY1hPRUlHVGxpVDVfbU9sTWF6Y1FDckFybUJNUkl1V21HWVNhNHR5Z1A5QTNnZDRiNVljaWh2d0JnbHpBa3lIU0lhd29pWTFJTHRJLUhoR3daZk1yVjdvNDRHck5IWHZPaElMZUU3TnFLc2FyRUxvTHJtVlp3MDdYV3hsajdYbjBSSVc4aHVCMlY3d2xPelIyemNvSHhhYzV4di1OTE1fZnA?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Study Watched Kids Interact With AI Toys. The Play Turned Hostile Fast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5\" tar…",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "‘Microduck’ robot enters growing market of AI toys",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQURrVnJUYUYtX2NlcHRyQ2dFbTUwR1Z6VVFvVjhfMnowOU5neWd1YzEwY09BbTM3ZmlsNGRpS0d6aHNISGgwMjA5NDI0Y1ZKU1dKakRTR3FTMVB3QUNlZ…",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQURrVnJUYUYtX2NlcHRyQ2dFbTUwR1Z6VVFvVjhfMnowOU5neWd1YzEwY09BbTM3ZmlsNGRpS0d6aHNISGgwMjA5NDI0Y1ZKU1dKakRTR3FTMVB3QUNlZXZ2YzF5aTVtdXhRcHZmWVo1TkU0SktqLVFZRGN2WWNzb294aFhnTUE4Z1VkOEdR?oc=5"
+  },
+  {
+    "severity": "medium",
+    "toy": "",
+    "title": "Wildbrain acquires Personality AI",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZkw3VUxhMGxkVlVLNFVFaTI5UDVRYVZMeENoUE04QkJFZFFvZEZlZ09uN0RWeVNhWG1ocGRld0ducVJZaFRIV3RLQVVGU3FOWUMya2VjdEUtMkxjSURtd…",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZkw3VUxhMGxkVlVLNFVFaTI5UDVRYVZMeENoUE04QkJFZFFvZEZlZ09uN0RWeVNhWG1ocGRld0ducVJZaFRIV3RLQVVGU3FOWUMya2VjdEUtMkxjSURtdVVpNDVvTFVnSDBpQjJMZi1EUHJXd2hj?oc=5"
   }
 ]
