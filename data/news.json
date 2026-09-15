@@ -1,47 +1,110 @@
 [
   {
-    "source": "TechRepublic",
-    "date": "4 Jun 2026",
-    "tag": "privacy",
-    "tagLabel": "Privacy",
-    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
-    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
-  },
-  {
-    "source": "BBC",
-    "date": "13 Mar 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys for young children need tighter rules, researchers warn",
-    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
-  },
-  {
-    "source": "WIRED",
-    "date": "8 May 2026",
+    "source": "The Toy Association",
+    "date": "today",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
+    "headline": "California Governor Signs AI Toy & Chatbot Bills into Law",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWtqQWJLamNfQkdsVVBEYzhaU3NYX3p1eVFzbW9RaEktRTFZSEdITnZhajNCbGh3N0l3ejBpN1RKSVoxcnR1MWlkeHQzLTlfYnh0Z192cU9YTHQ5MGtZR2RLcnYzRHNlaUxYSE9rN2FpdzJhNFlUbWl0eFZac…",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWtqQWJLamNfQkdsVVBEYzhaU3NYX3p1eVFzbW9RaEktRTFZSEdITnZhajNCbGh3N0l3ejBpN1RKSVoxcnR1MWlkeHQzLTlfYnh0Z192cU9YTHQ5MGtZR2RLcnYzRHNlaUxYSE9rN2FpdzJhNFlUbWl0eFZacWc5M2ROZnFuaDRSZXZIU1ItbDhfN09UNzNESEdQQy1STS1YajdVcFhyUzhQUjBuVTZsWmJUczRsLUtKbEhoTWJ3?oc=5"
   },
   {
-    "source": "Business Insider",
-    "date": "4 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
-    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+    "source": "Newswise",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Video: Curiosity, Frustration and Antipathy: How Kids Play with AI Toys | Newswise",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzVCRzhXN0g5dkhDNlZoMmJiZTZBc1JIMGxLX1pOVGxpWmdvMFBsMXhlbzRxMzB2NGJwTGRlaGJsM0JySm43V3RkRGFfVDFHNnlMdW51QVBsN3JqU1M3Z2l5eWJuQUJvX1BSOTBpMXJFbjItOFhFMnVyUWNBT…",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzVCRzhXN0g5dkhDNlZoMmJiZTZBc1JIMGxLX1pOVGxpWmdvMFBsMXhlbzRxMzB2NGJwTGRlaGJsM0JySm43V3RkRGFfVDFHNnlMdW51QVBsN3JqU1M3Z2l5eWJuQUJvX1BSOTBpMXJFbjItOFhFMnVyUWNBTlZYT256TWZyWVV0a0ozWWNWbkVOYTB4Q2lLaFhyWUo0WTlpNF9NSdIBpAFBVV95cUxPRzVCRzhXN0g5dkhDNlZoMmJiZTZBc1JIMGxLX1pOVGxpWmdvMFBsMXhlbzRxMzB2NGJwTGRlaGJsM0JySm43V3RkRGFfVDFHNnlMdW51QVBsN3JqU1M3Z2l5eWJuQUJvX1BSOTBpMXJFbjItOFhFMnVyUWNBTlZYT256TWZyWVV0a0ozWWNWbkVOYTB4Q2lLaFhyWUo0WTlpNF9NSQ?oc=5"
   },
   {
-    "source": "The Conversation",
-    "date": "3 Jun 2026",
+    "source": "ConsumerAffairs",
+    "date": "1 day ago",
     "tag": "research",
     "tagLabel": "Research",
-    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
-    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
+    "headline": "Study shows kids treat AI toys like friends — then things get weird",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1WcEtNdXlWVndTMHdUeGViMHl6eGQ0QUFXZjlTR3pXYjBIRVI0ekZhUGg3WVVfWDk2QTRacVB5R201SFJEMXZOT3RESkFaeDZCWElFbndEY3o0SjVoOS1zUDhPTDFLYnBBUjR3RER2WHJreHZYN2N3SXNoU…",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1WcEtNdXlWVndTMHdUeGViMHl6eGQ0QUFXZjlTR3pXYjBIRVI0ekZhUGg3WVVfWDk2QTRacVB5R201SFJEMXZOT3RESkFaeDZCWElFbndEY3o0SjVoOS1zUDhPTDFLYnBBUjR3RER2WHJreHZYN2N3SXNoUkZwNm8wUFdZSGp6cUZxcFgtNkNyZjBKLV9XNTRmQ0ZMQW5JbFNhVGdkUEYwQUVnYmNlYWlkZ2w?oc=5"
+  },
+  {
+    "source": "Yahoo",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "California legislature sends AI toy restrictions to Governor Newsom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVJwaHU5MHktQ21mSlZjT2s0aXJ5RUhHdk5Vd1ljSWJMbDduOHBHb25EOHhBLVE1RmIxTVFNQlBfOHVZZjYzczl3YkdvM3dxSEtPdTlvRUE1anRBNHU3RUNJaVBrODZVTFNaMkhaeEQ4QnJERzI5d3ZaSGtXQ…",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVJwaHU5MHktQ21mSlZjT2s0aXJ5RUhHdk5Vd1ljSWJMbDduOHBHb25EOHhBLVE1RmIxTVFNQlBfOHVZZjYzczl3YkdvM3dxSEtPdTlvRUE1anRBNHU3RUNJaVBrODZVTFNaMkhaeEQ4QnJERzI5d3ZaSGtXQzVhdVdkTEM3UXVKQVN0OWNlc0hoVExweFJFSlVoYw?oc=5"
+  },
+  {
+    "source": "StudyFinds",
+    "date": "1 week ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Study Watched Kids Interact With AI Toys. The Play Turned Hostile Fast",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5\" target=\"_blank\">Study Watched Kids Interact…",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GdWZTTVJhemg1V0JlX0tjVzRHN3VYN2c5TC1oaDZsMWliRC1vMHBmTVl1d3RkVFBBbm1qOGxrT1RfMEYtdEFXNHBxU3JfRG1Nc3JIYm11dzQ?oc=5"
+  },
+  {
+    "source": "Moomoo",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Robotic duck ignites domestic supply chain; AI toys urgently need \"embodied intelligence\" to break through",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3JYcXg0UUw3N09tOWYzVkNpZ1VPeklqWkFmX2stRDQzMFZ6MHc3V1ctRVFkSWktTXBlckRRZE5RN3VJQ3I0RTUxS2JQRHI4eWFSX3VFTHhCQ2p5cjdqTXVISWlyOTJoT1pZR2JKajA5UFQyQ2hrMmlGMDJRS…",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3JYcXg0UUw3N09tOWYzVkNpZ1VPeklqWkFmX2stRDQzMFZ6MHc3V1ctRVFkSWktTXBlckRRZE5RN3VJQ3I0RTUxS2JQRHI4eWFSX3VFTHhCQ2p5cjdqTXVISWlyOTJoT1pZR2JKajA5UFQyQ2hrMmlGMDJRS0ctZm1pSm84OHlGVzJua1VVTmhSd2ZMNkoyVjBfV2d6azZsc3RLOHdZYTVhUQ?oc=5"
+  },
+  {
+    "source": "The National Law Review",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "California AI Toy Bill Brings Software Behavior Into Product Safety",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0ZleGdfVE83QUpYWVNPMjBubThLOUtVOWFKbUVlOU9UOE54TjF3VWZNSVAyUFQzWXNzZ3NlRjBLWi1pY2FQY2czU3BIVTRkRUk5RWFSM1BnZ0ZlWDY2ekx5RjlhTy1nNm9Wb0FSaW5zd0hPZXVrSmZVSW9TT…",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0ZleGdfVE83QUpYWVNPMjBubThLOUtVOWFKbUVlOU9UOE54TjF3VWZNSVAyUFQzWXNzZ3NlRjBLWi1pY2FQY2czU3BIVTRkRUk5RWFSM1BnZ0ZlWDY2ekx5RjlhTy1nNm9Wb0FSaW5zd0hPZXVrSmZVSW9TTG1sREhXNG1GS09Oc2JSbEt3MmJGSGFpbVlkUUhrONIBoAFBVV95cUxOVVZFR3VSdGVNZmNPR2tYRnRETGRpLVpNUERSR2xMUTJzRUsyT1dfOEZhclNpUUNjMDItRDlDdHdBbGN2QjRIdlpxYUpsYUM5dVM4am4wdVVnT0hkcGN4bkRqR0lRbXlrcFRDaTlXLTZweEE0c1RPcGkxTHZ3c3R3YzdIbWxNVHlIaHdjYWFKNnZfa1V4OGljTWt5TG9RbC01?oc=5"
+  },
+  {
+    "source": "Fox Business",
+    "date": "3 days ago",
+    "tag": "recall",
+    "tagLabel": "Recall",
+    "headline": "Hundreds of thousands of finger light toys sold on Amazon recalled over swallowing risk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnc0UmJ6V19leEVtVHFTVWNYT0VJR1RsaVQ1X21PbE1hemNRQ3JBcm1CTVJJdVdtR1lTYTR0eWdQOUEzZ2Q0YjVZY2lodndCZ2x6QWt5SFNJYXdvaVkxSUx0SS1IaEd3WmZNclY3bzQ0R3JOSFh2T2hJTGVFN…",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnc0UmJ6V19leEVtVHFTVWNYT0VJR1RsaVQ1X21PbE1hemNRQ3JBcm1CTVJJdVdtR1lTYTR0eWdQOUEzZ2Q0YjVZY2lodndCZ2x6QWt5SFNJYXdvaVkxSUx0SS1IaEd3WmZNclY3bzQ0R3JOSFh2T2hJTGVFN05xS3NhckVMb0xybVZadzA3WFd4bGo3WG4wUklXOGh1QjJWN3dsT3pSMnpjb0h4YWM1eHYtTkxNX2Zw0gG4AUFVX3lxTE12dzRSYnpXX2V4RW1UcVNVY1hPRUlHVGxpVDVfbU9sTWF6Y1FDckFybUJNUkl1V21HWVNhNHR5Z1A5QTNnZDRiNVljaWh2d0JnbHpBa3lIU0lhd29pWTFJTHRJLUhoR3daZk1yVjdvNDRHck5IWHZPaElMZUU3TnFLc2FyRUxvTHJtVlp3MDdYV3hsajdYbjBSSVc4aHVCMlY3d2xPelIyemNvSHhhYzV4di1OTE1fZnA?oc=5"
+  },
+  {
+    "source": "inc.com",
+    "date": "1 day ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "A New Study Let Kids Play With AI-Powered Toys. By Stage 3, They Wanted to Throw Them Into the Ocean",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2xaTXFqTzlZSVYxemlIdHV5TzVyUGJCem5ydUJCYzRZNFozaTNMTFhxc1dTQ090Z0FwS2NlSWtyeE43OFRxSUU3em9lTnk3VTE4NURhbjVuWXNHcDB5TkRxU2lnWmlkbG9leDJqdmUzb3E5X1k4czhpcTRLT…",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2xaTXFqTzlZSVYxemlIdHV5TzVyUGJCem5ydUJCYzRZNFozaTNMTFhxc1dTQ090Z0FwS2NlSWtyeE43OFRxSUU3em9lTnk3VTE4NURhbjVuWXNHcDB5TkRxU2lnWmlkbG9leDJqdmUzb3E5X1k4czhpcTRLTkRDZmg3VzVFcFdSZmRFcDlBSTQ1N21YRzlRTW93Z1paQk5zWFB4TlN3aTRJVndGOWs4VzBtMkNHNzdxN09ySWVSZnl2S2F0TGx5bzZmbjA5c0VlTnRhOEU1Yw?oc=5"
+  },
+  {
+    "source": "CityNews Vancouver",
+    "date": "1 week ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Online harms now top threat to Canadian children, new report says",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUo1OFZBejJwRDF3bzFGYnFoV0k0VjdRSjJrWUpIX253bFBleGg2ZkVYakZneEM5NnJjeWRRU2s5Y0hKUE5GYWpxTW1KZy1LX2o5M24yZlYtRW10T0dzczVfZlFfVDhYQWVQdEl0Z0psWkJZV3k3YkdKZG0wb…",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUo1OFZBejJwRDF3bzFGYnFoV0k0VjdRSjJrWUpIX253bFBleGg2ZkVYakZneEM5NnJjeWRRU2s5Y0hKUE5GYWpxTW1KZy1LX2o5M24yZlYtRW10T0dzczVfZlFfVDhYQWVQdEl0Z0psWkJZV3k3YkdKZG0wbm5DVWY3RldEalRzYzllVGNQems3eVM1cHQzZHMwX1NzOGdVelNMRDAxQVNsZw?oc=5"
+  },
+  {
+    "source": "chch.com",
+    "date": "6 days ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "New report ranks online harms as top threat facing Canadian children",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3Fzb3hUYkVlTzlkLUxNSzR1Y3E5QlZtenRqaDVibWZ3eF9fb3Q3UkdOSGUtR1RNdF9IRUpTZUk2aUZrUkJ4Rl84SGxPbUN3M3NhbmdUZnJoM3hyWHZtUWR5ckFJdDloVXRoZ1FHNTdQS0lSdWJtVWVYM3NKS…",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3Fzb3hUYkVlTzlkLUxNSzR1Y3E5QlZtenRqaDVibWZ3eF9fb3Q3UkdOSGUtR1RNdF9IRUpTZUk2aUZrUkJ4Rl84SGxPbUN3M3NhbmdUZnJoM3hyWHZtUWR5ckFJdDloVXRoZ1FHNTdQS0lSdWJtVWVYM3NKSHRyZlIzdVAxbThZbXBVWGl4ejlfOWdLSTVqaDlSTnpvVlplM3c?oc=5"
+  },
+  {
+    "source": "londoninsider.co.uk",
+    "date": "1 day ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "California’s AI Toy Law Forces Companies To Rethink Software As A Safety Issue",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN04zT2NmQ0lOdUdtY0ZvV0V3anFUYlNrQ0ptOENfOG5JMUhrYWtXZk5oZXJtOC1IT0otdjdSYTVOVkhaT1ZEWjd4OW9Hc1dtMW42bDVFUng4MjYwaUxtRTkwRXltRXlsVG1xeFlSS080X0F5ZnJhVU41M0Zje…",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN04zT2NmQ0lOdUdtY0ZvV0V3anFUYlNrQ0ptOENfOG5JMUhrYWtXZk5oZXJtOC1IT0otdjdSYTVOVkhaT1ZEWjd4OW9Hc1dtMW42bDVFUng4MjYwaUxtRTkwRXltRXlsVG1xeFlSS080X0F5ZnJhVU41M0ZjeGpRTzhwYjVXUFJtZGJDaVpVQlhpd3o1d3puZE1FSnU1VEtZUzBYRERSOWQyUQ?oc=5"
   }
 ]
