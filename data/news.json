@@ -1,47 +1,110 @@
 [
   {
-    "source": "TechRepublic",
-    "date": "4 Jun 2026",
-    "tag": "privacy",
-    "tagLabel": "Privacy",
-    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
-    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
-  },
-  {
-    "source": "BBC",
-    "date": "13 Mar 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys for young children need tighter rules, researchers warn",
-    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
-  },
-  {
-    "source": "WIRED",
-    "date": "8 May 2026",
+    "source": "The Toy Association",
+    "date": "5 days ago",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
+    "headline": "California Governor Signs AI Toy & Chatbot Bills into Law",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWtqQWJLamNfQkdsVVBEYzhaU3NYX3p1eVFzbW9RaEktRTFZSEdITnZhajNCbGh3N0l3ejBpN1RKSVoxcnR1MWlkeHQzLTlfYnh0Z192cU9YTHQ5MGtZR2RLcnYzRHNlaUxYSE9rN2FpdzJhNFlUbWl0eFZac…",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWtqQWJLamNfQkdsVVBEYzhaU3NYX3p1eVFzbW9RaEktRTFZSEdITnZhajNCbGh3N0l3ejBpN1RKSVoxcnR1MWlkeHQzLTlfYnh0Z192cU9YTHQ5MGtZR2RLcnYzRHNlaUxYSE9rN2FpdzJhNFlUbWl0eFZacWc5M2ROZnFuaDRSZXZIU1ItbDhfN09UNzNESEdQQy1STS1YajdVcFhyUzhQUjBuVTZsWmJUczRsLUtKbEhoTWJ3?oc=5"
   },
   {
-    "source": "Business Insider",
-    "date": "4 Jun 2026",
+    "source": "ConsumerAffairs",
+    "date": "5 days ago",
     "tag": "research",
     "tagLabel": "Research",
-    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
-    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+    "headline": "Study shows kids treat AI toys like friends — then things get weird",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1WcEtNdXlWVndTMHdUeGViMHl6eGQ0QUFXZjlTR3pXYjBIRVI0ekZhUGg3WVVfWDk2QTRacVB5R201SFJEMXZOT3RESkFaeDZCWElFbndEY3o0SjVoOS1zUDhPTDFLYnBBUjR3RER2WHJreHZYN2N3SXNoU…",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNei1WcEtNdXlWVndTMHdUeGViMHl6eGQ0QUFXZjlTR3pXYjBIRVI0ekZhUGg3WVVfWDk2QTRacVB5R201SFJEMXZOT3RESkFaeDZCWElFbndEY3o0SjVoOS1zUDhPTDFLYnBBUjR3RER2WHJreHZYN2N3SXNoUkZwNm8wUFdZSGp6cUZxcFgtNkNyZjBKLV9XNTRmQ0ZMQW5JbFNhVGdkUEYwQUVnYmNlYWlkZ2w?oc=5"
   },
   {
-    "source": "The Conversation",
-    "date": "3 Jun 2026",
+    "source": "transparencycoalition.ai",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Safety concerns lead California to halt chatbot toy sales, enact four-year moratorium",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWlOMjhGd1ltTFVzS2lRdFBjZ0ZDRjQxMVZZOWVaZ1ZYamdjd19faDB0WkJBUVRsejI0MnVwZzBham1UdkdzaGZUbEw5Qk82STcxTERnZktnWWM1YURLdWNHM0xsX3NTUVRleGl2QTloV21LMVp1RUdTN2F0b…",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWlOMjhGd1ltTFVzS2lRdFBjZ0ZDRjQxMVZZOWVaZ1ZYamdjd19faDB0WkJBUVRsejI0MnVwZzBham1UdkdzaGZUbEw5Qk82STcxTERnZktnWWM1YURLdWNHM0xsX3NTUVRleGl2QTloV21LMVp1RUdTN2F0bUQ3Z0ozRkQ1SEdGeEktZ3NhZFRsWDl3NE9zUUU5dVdYeU9Kd3ZKRDk0ZGlzQmRlR2llMEcyU0xxcTdJZlc4?oc=5"
+  },
+  {
+    "source": "Law Commentary",
+    "date": "1 day ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Newsom Signs California Ban on AI Chatbot Toys for Kids Under 16",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGJlSVliUVpJcHRCWDJ5WW1zYnI0RUpEVkV2dnFvSG8tRjY0VEJ0ZGg3SHlTTmJHZEhJQWJhSXBDaW1PQ0pnMVNhVkNwejBHclVaU21WMXJRZl9TS3JoUFVzNTAtdTZrNVFnWTI3cE9laXA4bjhUREFNaWExZ…",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGJlSVliUVpJcHRCWDJ5WW1zYnI0RUpEVkV2dnFvSG8tRjY0VEJ0ZGg3SHlTTmJHZEhJQWJhSXBDaW1PQ0pnMVNhVkNwejBHclVaU21WMXJRZl9TS3JoUFVzNTAtdTZrNVFnWTI3cE9laXA4bjhUREFNaWExZF9nUlNRMGZrT084WEFDVi1NcFlobjNB?oc=5"
+  },
+  {
+    "source": "inc.com",
+    "date": "6 days ago",
     "tag": "research",
     "tagLabel": "Research",
-    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
-    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
+    "headline": "A New Study Let Kids Play With AI-Powered Toys. By Stage 3, They Wanted to Throw Them Into the Ocean",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2xaTXFqTzlZSVYxemlIdHV5TzVyUGJCem5ydUJCYzRZNFozaTNMTFhxc1dTQ090Z0FwS2NlSWtyeE43OFRxSUU3em9lTnk3VTE4NURhbjVuWXNHcDB5TkRxU2lnWmlkbG9leDJqdmUzb3E5X1k4czhpcTRLT…",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2xaTXFqTzlZSVYxemlIdHV5TzVyUGJCem5ydUJCYzRZNFozaTNMTFhxc1dTQ090Z0FwS2NlSWtyeE43OFRxSUU3em9lTnk3VTE4NURhbjVuWXNHcDB5TkRxU2lnWmlkbG9leDJqdmUzb3E5X1k4czhpcTRLTkRDZmg3VzVFcFdSZmRFcDlBSTQ1N21YRzlRTW93Z1paQk5zWFB4TlN3aTRJVndGOWs4VzBtMkNHNzdxN09ySWVSZnl2S2F0TGx5bzZmbjA5c0VlTnRhOEU1Yw?oc=5"
+  },
+  {
+    "source": "조선일보",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "California Leads U.S. States in Regulating AI Chatbots for Minors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclU0Y0lVckpSNmNBRlZwQ0FEdmhuWVlJQVAwYndoSHQwQkFBcGFKQ2tENzRqSzVaU2ZtakFJX0JuZHpkVDN0VE1MQ0ZrUU0ybFFfaFRoY2dDbVdVTjhWTWFlNmNrNDZsdjJWTHFxQWtxRXd2Z0phOXJZbUhwW…",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclU0Y0lVckpSNmNBRlZwQ0FEdmhuWVlJQVAwYndoSHQwQkFBcGFKQ2tENzRqSzVaU2ZtakFJX0JuZHpkVDN0VE1MQ0ZrUU0ybFFfaFRoY2dDbVdVTjhWTWFlNmNrNDZsdjJWTHFxQWtxRXd2Z0phOXJZbUhwWi05VUhTLTdfaFZw?oc=5"
+  },
+  {
+    "source": "China Daily Global Edition",
+    "date": "6 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Robotics companies eye homes as potential market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSDBoZTQ5SXhJVzZpRHh0dVg0OW5MZnpLOEZRamdiN2VOX3lja3A4aVdPbjZBNVdIUk0zVDlGRDk3d2IzNlZrT2MyNzRSNGVaS2xqZlZNRWo5S0lteGRwT3RWc3FHRXZYQjc3NkhCdTFuMzl6dWczWHlJbWduW…",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSDBoZTQ5SXhJVzZpRHh0dVg0OW5MZnpLOEZRamdiN2VOX3lja3A4aVdPbjZBNVdIUk0zVDlGRDk3d2IzNlZrT2MyNzRSNGVaS2xqZlZNRWo5S0lteGRwT3RWc3FHRXZYQjc3NkhCdTFuMzl6dWczWHlJbWduWXVWd2tR?oc=5"
+  },
+  {
+    "source": "JoBlo",
+    "date": "6 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Tom Hanks says Disney could utilize AI to voice Woody if he chooses not to return",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbVY0SnRpWGtlMEZMSTNISnhJX1FNMDdBM0JvVnhaU3ltUGpCZnRNU3ZGMV8wVFVXdzhHa2k3a3NWZHZqZUpnaEQ0TjR5d0VMU1d2SVZ3MTHSAV5BVV95cUxObjNyNHQzTmFPRWpQTmJSejJWZktNNGNLU3lyT…",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbVY0SnRpWGtlMEZMSTNISnhJX1FNMDdBM0JvVnhaU3ltUGpCZnRNU3ZGMV8wVFVXdzhHa2k3a3NWZHZqZUpnaEQ0TjR5d0VMU1d2SVZ3MTHSAV5BVV95cUxObjNyNHQzTmFPRWpQTmJSejJWZktNNGNLU3lyT1plbllGZ2dEd01MU0ZMUlNhWnVtOHR5QkhsVDZrQ2VsbkZPY2xVWVZvd0x2am5PdDZwWW9TZnpRc1pn?oc=5"
+  },
+  {
+    "source": "The Korea Daily",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "California Social Media Law Kids: Newsom Bans Addictive Tech Features",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZm5ZbEdoOWZvWFhoV2ZlaDl5ODdqdlB2WGVzUnhUNFc1TUlYdVhYbWFvOHdlZGxiZ2YtQ3JsVDd0YmFJS2FhanVqaEFVVnc4QXZaX3pHWkQ4ZXBWZC1QWGtXWkR0a3VrdkZzQmtQTDNFeG9qZVpFRHhjZFRFZ…",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZm5ZbEdoOWZvWFhoV2ZlaDl5ODdqdlB2WGVzUnhUNFc1TUlYdVhYbWFvOHdlZGxiZ2YtQ3JsVDd0YmFJS2FhanVqaEFVVnc4QXZaX3pHWkQ4ZXBWZC1QWGtXWkR0a3VrdkZzQmtQTDNFeG9qZVpFRHhjZFRFZHdWWENPdFRxMzhHVWc?oc=5"
+  },
+  {
+    "source": "Lethbridge News Now",
+    "date": "1 week ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Online harms now top threat to Canadian children, new report says",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFhQVVQtV2tXdlVZVW53U3dJcnJVVkl5T3BNNEt0YXptWVo1MXFzenA5Qzd5QUdqVXVIM2pPajB1dU1ISkhPUExxRi00c1NTOFgwZU0wakc4UGttUENPN3E4VVp2TXItbnpwcnY5QVp5N0hDblhHOG10TU9uT…",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFhQVVQtV2tXdlVZVW53U3dJcnJVVkl5T3BNNEt0YXptWVo1MXFzenA5Qzd5QUdqVXVIM2pPajB1dU1ISkhPUExxRi00c1NTOFgwZU0wakc4UGttUENPN3E4VVp2TXItbnpwcnY5QVp5N0hDblhHOG10TU9uTkVHT1VvVldyUjV5a2QwZnpMN1RqWGkydEplbW14MHBzMVM0V3c5eXpCNDBJQQ?oc=5"
+  },
+  {
+    "source": "Jamaica Gleaner",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Peter Espeut | From the backyard to the front lawn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWjZrVHE5N0E1UFV4TTFzRXJOSzhZQksxYVpVVHNwUGJGUWVGdHEySU5jcDlzZ2VBZXpUc21LRWhmVl9XOHctZFZBUTFBVFFGRkt4WVFFWnNFV051cXkxUmREOGNFT2w0aFBvamRVRmdFTlhsMTBuTENFWDNhW…",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWjZrVHE5N0E1UFV4TTFzRXJOSzhZQksxYVpVVHNwUGJGUWVGdHEySU5jcDlzZ2VBZXpUc21LRWhmVl9XOHctZFZBUTFBVFFGRkt4WVFFWnNFV051cXkxUmREOGNFT2w0aFBvamRVRmdFTlhsMTBuTENFWDNhWUVrZ2RTeVVIX1VwcEE5Yjlpbmg?oc=5"
+  },
+  {
+    "source": "iPhone in Canada",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Meta Just Launched Muse, a Personal AI Agent That Can Spend Your Money. Not in Canada.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2hobGVnRDNVX0NxWEIxcnVuYlAyQ0F3dnJOd2tNMHBuSEpINnBXT0VKX2JFQl85M21HV0IxbWRzV0U0M1N5UWNraFpRcHYwX1BaS1EwRG5RMnFXelJ3Zm8tUmJ0VFMtWkFDOE5OamFjanlKa0JNVW9tdkJyb…",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2hobGVnRDNVX0NxWEIxcnVuYlAyQ0F3dnJOd2tNMHBuSEpINnBXT0VKX2JFQl85M21HV0IxbWRzV0U0M1N5UWNraFpRcHYwX1BaS1EwRG5RMnFXelJ3Zm8tUmJ0VFMtWkFDOE5OamFjanlKa0JNVW9tdkJybTlfWEtFeDJZdDl6T1JQRQ?oc=5"
   }
 ]
