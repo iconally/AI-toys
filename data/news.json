@@ -1,47 +1,110 @@
 [
   {
-    "source": "TechRepublic",
-    "date": "4 Jun 2026",
-    "tag": "privacy",
-    "tagLabel": "Privacy",
-    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
-    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
-  },
-  {
-    "source": "BBC",
-    "date": "13 Mar 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys for young children need tighter rules, researchers warn",
-    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
-  },
-  {
-    "source": "WIRED",
-    "date": "8 May 2026",
+    "source": "Transparency Coalition",
+    "date": "1 week ago",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
+    "headline": "Pennsylvania House considers an AI toy ban bill, HB 2637: “These are chatbots in disguise”",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcllWaGlaVHNpY2x2Mzd3X1hSYnh1aWdLUDZBYlpmV0ZEbllDc09kaW1wTW5IVTlTbjNYQk42T0tiRy12UnZHWFBDQzQzSXJZdnljOGVqZzhmUk93RV9ZYkMxUDVZb1RWRk9RVUVrM0RwbTUyaHJiV0M4Sk9lT…",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcllWaGlaVHNpY2x2Mzd3X1hSYnh1aWdLUDZBYlpmV0ZEbllDc09kaW1wTW5IVTlTbjNYQk42T0tiRy12UnZHWFBDQzQzSXJZdnljOGVqZzhmUk93RV9ZYkMxUDVZb1RWRk9RVUVrM0RwbTUyaHJiV0M4Sk9lT0FIT0VkZUFmSFBmWm14OUd1LUszMlNxejdDbA?oc=5"
   },
   {
-    "source": "Business Insider",
-    "date": "4 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
-    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+    "source": "Hackster.io",
+    "date": "6 days ago",
+    "tag": "privacy",
+    "tagLabel": "Privacy",
+    "headline": "The Philosopher Plush — a DIY AI toy that runs 100% local",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWFYQ1AtaGNBZjNhNnVQbnVGNjNOYzVDa2N3dXhsSWdJZzFqbjBHX1JYOU5JM04wbU83cGt6S2t2ZW5aY0ZrVmk0TWZBZ0hDMHdNamFEUEVPUWI0dzdXSHZwLWZ5SFI5a19iSGlSOTdodVlTUXdnMlN0Q3YyQ…",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWFYQ1AtaGNBZjNhNnVQbnVGNjNOYzVDa2N3dXhsSWdJZzFqbjBHX1JYOU5JM04wbU83cGt6S2t2ZW5aY0ZrVmk0TWZBZ0hDMHdNamFEUEVPUWI0dzdXSHZwLWZ5SFI5a19iSGlSOTdodVlTUXdnMlN0Q3YyQy1jNGNMZG5maGE5anhNZC01c2dVZUZKRi1Bdw?oc=5"
   },
   {
-    "source": "The Conversation",
-    "date": "3 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
-    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
+    "source": "Good Housekeeping",
+    "date": "5 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "The Stickerbox Is the First AI-Enabled Toy to Win Over Our Toy Testers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0NjcW9UcWtIRGFTMTJFUE1OQ3Rta0NodGF5TTlvaThkY0p6SDRKd3AtN192VUFNVEpna20zMmlnRjBwN3RhVXNVQk5ydDIyb3VNM1FTdnVvVXM4aGVsYUtqOHZpcExZb0JOcEMxYWVxOGZPaXZ2V3FGMlZjM…",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0NjcW9UcWtIRGFTMTJFUE1OQ3Rta0NodGF5TTlvaThkY0p6SDRKd3AtN192VUFNVEpna20zMmlnRjBwN3RhVXNVQk5ydDIyb3VNM1FTdnVvVXM4aGVsYUtqOHZpcExZb0JOcEMxYWVxOGZPaXZ2V3FGMlZjMzZHM2JEWkVBbk1nLVdyTUgyaFVLdUFlS0N5YmljQkVGcWNu?oc=5"
+  },
+  {
+    "source": "PennLive.com",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Pa. inventors will pitch their AI-powered toy on ‘Shark Tank’",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhscHpkUUE0b3IwZm5JU2lwa19ZbzVudWVBYVlBRlVvb1BRYWhMb2NGa0E1eDZSQThRQmROMTFPblZLczBXQ2NjQlpBVDJtZ1pJWUxZclprVjY0ZjJvMVFYWnJtZDlYNkJDUW0wTEhWOFJYVDZBMUJScHg5M…",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhscHpkUUE0b3IwZm5JU2lwa19ZbzVudWVBYVlBRlVvb1BRYWhMb2NGa0E1eDZSQThRQmROMTFPblZLczBXQ2NjQlpBVDJtZ1pJWUxZclprVjY0ZjJvMVFYWnJtZDlYNkJDUW0wTEhWOFJYVDZBMUJScHg5MDRzZmpDaElPNnFuLVFoTzdGLUlXa0o4eHNCM1dhaGU5R1Z3aW1nVWdOYzhqUEJGWXV30gHDAUFVX3lxTE9WdGdHakV6MnhPZUNzd1hYWlJBeDNCLW9tdjdxRk5vV0RmMHpKUjFvajh4bVd4MVRUdGNXdzlYcExKSmRXV3pnaS0tenlfc2FlRTh1OURpWGxtemRlX1loTnRFNmVjMVo2Ym1PY3IxbXlzeDZpeHloWjZmZloxOEJLcnBKdGMzR3RfQ0NXUl8wa3JXbUQyYWpWbUZoZUl3M2RJLV9GTzItX2s3TnNSZUViOElkeE1RNU9BQ0hVMy1sSlFHaw?oc=5"
+  },
+  {
+    "source": "The Bookseller",
+    "date": "3 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Toniebox 'will never become AI toy', CEO Tobias Wann tells FBF",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzA0dDJ6LVpUc1FrM2J5cm51S0hlQnIzeW40eDNrY1RjZDdCckk0ek9Ha25DeTBfa2tjX3Y2aVJTMUlKUnFOb05RWUljNVZ4bndJeDliX2R0UjJjdE13TENwencyTGE3dmRBT1dBdFkzS1IzUVhQMG1JUVlka…",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzA0dDJ6LVpUc1FrM2J5cm51S0hlQnIzeW40eDNrY1RjZDdCckk0ek9Ha25DeTBfa2tjX3Y2aVJTMUlKUnFOb05RWUljNVZ4bndJeDliX2R0UjJjdE13TENwencyTGE3dmRBT1dBdFkzS1IzUVhQMG1JUVlkaURqMEltaHhOSWh1aEJFdnJabW5NenpWRWNRWEZ3?oc=5"
+  },
+  {
+    "source": "Dealroom",
+    "date": "6 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "MrBeast takes 55% of AI toy maker for $250K on Shark Tank",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaW9TNGNXa3d1R2NqeElsdE9pUEtoOWg2cFBYQjctZkJZc3B5MHZSQ3NSWGJqbzc5aW5YcXNMMFo1dmtNN1VES28xb3pkdDhqOEFPUTBKSW1IekgzRzY2WjdsYS1pa1E3V2g0a2pRelZjUjJmdTV5NTFBTTRkL…",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaW9TNGNXa3d1R2NqeElsdE9pUEtoOWg2cFBYQjctZkJZc3B5MHZSQ3NSWGJqbzc5aW5YcXNMMFo1dmtNN1VES28xb3pkdDhqOEFPUTBKSW1IekgzRzY2WjdsYS1pa1E3V2g0a2pRelZjUjJmdTV5NTFBTTRkLXlBZEdfWkxDZ3BuYnJ5N1I4UzFoVUE?oc=5"
+  },
+  {
+    "source": "Net Influencer",
+    "date": "6 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "MrBeast, Beast Industries CEO Take 55% Stake In AI Toy Ball Maker On ‘Shark Tank’ Debut",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObGYzVlNRaWZzM0l5dG5EZWdlQTB0aUJMb0ZCUDllV3FuU3BsOERiNnBVV25GVk9RNHhVZ3o0SGpMRlBJTVBkQ2hzVjdhMmVWOU5xZGdDR2ZyWWRjczRoWDQ0VGR2QUFIcV9JTHVBaXpDeVc0TndET3BaY3F3S…",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGYzVlNRaWZzM0l5dG5EZWdlQTB0aUJMb0ZCUDllV3FuU3BsOERiNnBVV25GVk9RNHhVZ3o0SGpMRlBJTVBkQ2hzVjdhMmVWOU5xZGdDR2ZyWWRjczRoWDQ0VGR2QUFIcV9JTHVBaXpDeVc0TndET3BaY3F3SndERW9fMEhmdkxyc1B1cldtT2JnZFpnSEV1X0c2c1pqdWY5XzhYUzN5SzJKZXBNdElJUUZUOTBjX2FfTlhoc2xiMA?oc=5"
+  },
+  {
+    "source": "PBS",
+    "date": "5 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Helpful or harmful? When it comes to AI and young kids, experts have these tips for parents",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW9UVWFoakx6ZXJfNUJvaGpKMG1RREZtTWFkTmt5TmdYWGstaXdQa1BQaGt0Z2xLU255TlVVclE4NVkwWDQ5cWtYVnRfUklheXJDVWdrTGZIbERTVkNDYVBLYXpXSXBjRkt0MFZFa0V3MlFWeWRIS3J4Mk5xS…",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW9UVWFoakx6ZXJfNUJvaGpKMG1RREZtTWFkTmt5TmdYWGstaXdQa1BQaGt0Z2xLU255TlVVclE4NVkwWDQ5cWtYVnRfUklheXJDVWdrTGZIbERTVkNDYVBLYXpXSXBjRkt0MFZFa0V3MlFWeWRIS3J4Mk5xSFRTZ3I2UUVUVGk0R0t6NkpUemhheWYwcmZ4TTdhcGgyb29mZkZITUZyZ1p1UUtucW02NkxCYXRLTTNCenc0Q1BxcnkzMjM2SnlV?oc=5"
+  },
+  {
+    "source": "Hackster.io",
+    "date": "7 days ago",
+    "tag": "privacy",
+    "tagLabel": "Privacy",
+    "headline": "An AI Toy That Doesn’t Need the Cloud",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUdtYk1kY1ZGU0hZd0tEQTNlckpwRmRXNnhacHdiUUFJNzRNdVZhVHN6aVdrUXBQUUtDb3REZTUtbjhCZ2otdDFCeDBTUUN4VFhWbUxBNlhUR3dZMnhkb0Rmay1iYlpYeTVrTVd6NDRTWGx0eF8tdHd2MW55Q…",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUdtYk1kY1ZGU0hZd0tEQTNlckpwRmRXNnhacHdiUUFJNzRNdVZhVHN6aVdrUXBQUUtDb3REZTUtbjhCZ2otdDFCeDBTUUN4VFhWbUxBNlhUR3dZMnhkb0Rmay1iYlpYeTVrTVd6NDRTWGx0eF8tdHd2MW55QTVSVmc2aTZUUQ?oc=5"
+  },
+  {
+    "source": "Boing Boing",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Trump offered to sell arms to China during Xi summit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONzM4VTB1NGZwdS1HZUVtX0J6eWFaejVzdHh5YUxXdWhFd2xJZ091bFB4eUNuSlZsaFJLZ05OdWJrVU1aSkhiVjBPTjM3ZXhLemN1TDlZWDVPRTM2UVpwWUgzZVU2R2taVDR0RDVrU0NjOWRZUV9DT1dlMGlsR…",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzM4VTB1NGZwdS1HZUVtX0J6eWFaejVzdHh5YUxXdWhFd2xJZ091bFB4eUNuSlZsaFJLZ05OdWJrVU1aSkhiVjBPTjM3ZXhLemN1TDlZWDVPRTM2UVpwWUgzZVU2R2taVDR0RDVrU0NjOWRZUV9DT1dlMGlsRWtFVWVWQkxkZ0RWT0h2VlNBRjNuWjh1ekHSAZsBQVVfeXFMTWJxdUhqM21VSGJvZ2JtR1ZjeU5XbFpwa0puNV9STTdqcDZCSmdBdDhTNzZoaUZtZlFuSjlTQkM0c28zN2lOSUNjSzNaSWlDa3d0QW5uS3JUbWVHcG91bEM0a1hZckxUU29CMmVYTGQxMkM0MDM5bEE5T004bDQ5Y2Z4WFdfN1Nwam51czRFaEdiUmlSN2JUSWdVWDg?oc=5"
+  },
+  {
+    "source": "chinadailyhk",
+    "date": "3 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "AI pet market cat's meow for the lonely",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBa2dvbmN5M0hNdmNDM05mVDdCUzFvWFMwX3VZanRlWmJBSEhka0U2ZUVyNXRZeVZiWmVrN3FmM2NoV2dzVXB2czNaQXJkMElKcEIyT3pGcUU2Zw?oc=5\" target=\"_blank\">AI pet market cat's meow…",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBa2dvbmN5M0hNdmNDM05mVDdCUzFvWFMwX3VZanRlWmJBSEhka0U2ZUVyNXRZeVZiWmVrN3FmM2NoV2dzVXB2czNaQXJkMElKcEIyT3pGcUU2Zw?oc=5"
+  },
+  {
+    "source": "YouTube",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Sigikid Musical Elephant 🐘 Pull Cord Music Box | Sankyo Mechanism Plays Mozart’s Lullaby",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbEpEQVNlZVRrMzI4RE1PaUZtM3JtbVI4cmdZQUI3XzdNMzdwVGp4NktJVFdkSjlHYWZvWElfX2xJbkl6NWRuM3Aya1lFZGJrdURMUEU2ZWo1RVFt?oc=5\" target=\"_blank\">Sigikid Musical Elepha…",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbEpEQVNlZVRrMzI4RE1PaUZtM3JtbVI4cmdZQUI3XzdNMzdwVGp4NktJVFdkSjlHYWZvWElfX2xJbkl6NWRuM3Aya1lFZGJrdURMUEU2ZWo1RVFt?oc=5"
   }
 ]
