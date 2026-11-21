@@ -1,47 +1,110 @@
 [
   {
-    "source": "TechRepublic",
-    "date": "4 Jun 2026",
-    "tag": "privacy",
-    "tagLabel": "Privacy",
-    "headline": "AI Toys Reach Children Before Privacy and Safety Rules Catch Up",
-    "summary": "AI-powered toys are reaching children faster than privacy and safety regulation can keep up, this analysis warns.",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UWk5dnc3UXY3TTlTTXVkSERXWkRBYnNVdmFMODZVdi12SHZUMlN2Yk0zbXFwdW5Ed0xITnV3dlFYd3NtaERwZWRMM0x5MWNuQUpFUTZYeUh0R3FIX3RZb2VNVG55d3c0SjJ4OWZqcGRydw?oc=5"
-  },
-  {
-    "source": "BBC",
-    "date": "13 Mar 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys for young children need tighter rules, researchers warn",
-    "summary": "Researchers call for tighter rules on AI toys aimed at young children, citing safety and developmental concerns.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1McmV0dDNleXFOQ3ctaVRKZkhQS3ptc3A0dUZ5LWFvM0hmTU9GNFU3blRDSmFyN2VFZnFub1puaVZaT3VVNkVGdS00WXJjd2k0UEx2bHdERjZzUQ?oc=5"
-  },
-  {
-    "source": "WIRED",
-    "date": "8 May 2026",
+    "source": "Brookings",
+    "date": "today",
     "tag": "",
     "tagLabel": "Industry",
-    "headline": "The New Wild West of AI Kids’ Toys",
-    "summary": "A look at the largely unregulated, fast-moving market for AI-powered children’s toys.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMFppM1QxRUN6b3JCN3dVNWEwTlBGNmtUX01yRnU5Vm9maUVnVElad0FOMlhJOENIcG1XQTlFbjRKQWt4Y051d1NtRi1zNXJHZUFENVZYQkxtZ0JseDhaZFR4SWExa0RGZXZjWmtQWQ?oc=5"
+    "headline": "Why AI toys shouldn’t make the list this holiday season",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV25Vc2hSRkE5amdlRFFhckdUQnp0ZlVtVnJ0Yk9HMjVkTG1oQWt2SW5BRTM2NWFnZkJwS09HRDFEZWt5R09PU3BlamNHNUIxLV9udjJIM1BUWUpJc3NVbFZ1enktTjV3ZFoyTkVLNVZ2RFJXUWMzXzNpdUVtR…",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV25Vc2hSRkE5amdlRFFhckdUQnp0ZlVtVnJ0Yk9HMjVkTG1oQWt2SW5BRTM2NWFnZkJwS09HRDFEZWt5R09PU3BlamNHNUIxLV9udjJIM1BUWUpJc3NVbFZ1enktTjV3ZFoyTkVLNVZ2RFJXUWMzXzNpdUVtRS1xcFdhTWFDMGZuZDFQY0hXWmh3eFd6?oc=5"
+  },
+  {
+    "source": "Mashable",
+    "date": "1 day ago",
+    "tag": "research",
+    "tagLabel": "Research",
+    "headline": "Report: AI toys are still getting sexual",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RbHUyd2RCX2RaWGZnd1p0YWRyR21UdXI3bU5vM29EYXl2WVhhaHZ1eERFNDIyRngtTC1jbkQzU1l4aHlyMFZIVm03dTdoVVpsRnlEWkhUZTlZeUxYU0d3b1BTV2k?oc=5\" target=\"_blank\">Report: AI…",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RbHUyd2RCX2RaWGZnd1p0YWRyR21UdXI3bU5vM29EYXl2WVhhaHZ1eERFNDIyRngtTC1jbkQzU1l4aHlyMFZIVm03dTdoVVpsRnlEWkhUZTlZeUxYU0d3b1BTV2k?oc=5"
+  },
+  {
+    "source": "KOIN.com",
+    "date": "2 days ago",
+    "tag": "privacy",
+    "tagLabel": "Privacy",
+    "headline": "AI toys flagged for privacy risks, unsafe behavior in new Trouble in Toyland report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTjdGNzZJMTNlaXdrYWhXNTNpcU5mYVVpd1VFbHlXUXlmdXNXZjRjUkZRb3MyNkRLamk0c1g0bF96LWRTc1pNNU5jRkkyWnZSbW8zNnd3aVNLbUFoS1NpTEI0WGlpelJaYUtIZE1EM245LUVMb1I5czRZcWZHM…",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjdGNzZJMTNlaXdrYWhXNTNpcU5mYVVpd1VFbHlXUXlmdXNXZjRjUkZRb3MyNkRLamk0c1g0bF96LWRTc1pNNU5jRkkyWnZSbW8zNnd3aVNLbUFoS1NpTEI0WGlpelJaYUtIZE1EM245LUVMb1I5czRZcWZHM3M2RGdxUlRZam13RkhqdU8yamllUnZzUDFjc1FmZnBIUdIBowFBVV95cUxOXzRhV2NCZ1Vha3laM3ROaHI2MzZQWGNVcWh3a1NBMGFPbzEzZTNuNGRKT0tQbDdwNXVFSDBpUzVqWHJuQ2JKS2p2ZWFHcGRicnQ1bGZLYXVEaXJWTkU0djdiT0EtOXVYc1N3NG5VWC16cnFiRVRDTzd1elBmZnE1eVVhQ1dWOGhfcElJRGx1TUNfY3RYdE4ydW5YVFpXY2pRSVdZ?oc=5"
   },
   {
     "source": "Business Insider",
-    "date": "4 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "AI toys could weaken kids' bond with their parents, 'The Anxious Generation' author says",
-    "summary": "“The Anxious Generation” author warns that AI companion toys could weaken children’s bonds with their parents.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWF2QTVwZzlrS1lndTZJY3I4T090S0hVRUtwcmtaeDhqcVJYUnVZRWNBdkg1Skw0WW13aXgtQUxlN184ZWxsQVJKZjZORFdRZ0syUHpuWXFPMFF6VGhNQS13d1E1dk04N2RjekZabGxjTHlTX2FPZ19vQVN3ZDR6aDJMZ3JFMC1uMGxTLU5lVEd0Q29MbVV4VnJ4eVdsVlBRN0hrZ2F3?oc=5"
+    "date": "2 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Please Don't Buy Your Kid an AI Toy for the Holidays",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDh5RWxEbjFIdTlUREJvVmUyV3dCZ1NsOFROUTFLNWx4ZG41d1ZWTnptYnVTTUpUZllueFVsc3hEVy0xOC1wbDZIWFNZbzl1dUVRUHhjZzlVeHVaMDhoQ3l6VEN2WE5LdTkxdjFETDdXQVRMZENfZm0wdlp1Z…",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDh5RWxEbjFIdTlUREJvVmUyV3dCZ1NsOFROUTFLNWx4ZG41d1ZWTnptYnVTTUpUZllueFVsc3hEVy0xOC1wbDZIWFNZbzl1dUVRUHhjZzlVeHVaMDhoQ3l6VEN2WE5LdTkxdjFETDdXQVRMZENfZm0wdlp1ZUtnYmJxd05vdmNXQnNRTDVFd3lHcWp5dk4w?oc=5"
   },
   {
-    "source": "The Conversation",
-    "date": "3 Jun 2026",
-    "tag": "research",
-    "tagLabel": "Research",
-    "headline": "Chatbot teddies for three-year-olds? Why AI toys are risky for kids",
-    "summary": "Experts question whether chatbot-powered teddies are appropriate for children as young as three.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSMFQxSEpWMmU0X3IwNXpyb0h6bmJEajJHNFpiMGhHRWtUVEI3NEV3N2RvYTVMN245WDJpN3BjYkF0di1rWlY2VF9TUV93ZjFaa0R3a285QTRsczBWaW1rOHIydmt4RlFUTEdCZUduQzRGNmxEWG12bWtaUkpoWEEwQkx0UDJoblU4ME15aHVOX1Bxal9xMXRGQ1lJcm1KT0hn?oc=5"
+    "source": "LAist",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "AI toys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbU84N0FNN2wxN2NGSFRVRkVYYXc0OG1TX0ZFN2dSRWl4SUd6d2ZJaFE2d1ZBNnZwMWdkZFJ2cVByeno3N3V6dDJwOXo1YnBzMXlQS0JfdGQxVDlmYU9MVDloZUdqMUhOTERZNl9OSUx5ZU9fSklTVE1ldVJjN…",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbU84N0FNN2wxN2NGSFRVRkVYYXc0OG1TX0ZFN2dSRWl4SUd6d2ZJaFE2d1ZBNnZwMWdkZFJ2cVByeno3N3V6dDJwOXo1YnBzMXlQS0JfdGQxVDlmYU9MVDloZUdqMUhOTERZNl9OSUx5ZU9fSklTVE1ldVJjNHRFTGZ5RGV6akdGZ3NXUHB5Vmh1dXc4T25JUkdoX3M?oc=5"
+  },
+  {
+    "source": "The Register",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "AI toys are on the naughty list again this year",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXZ2ZTF4OTRZVVAwODl3ajFsSmt2djdDT1E2bWhVc29XSzk1RElHV1c2V29LVkx0dGFEUGJuZ1BNQWZjbHdpRlhVUl9RVGlBRGhSeVR3bjVWbTBLNFJ4TnlVMHRDLWNMNkVnMjUzOTA1R1p3Um0ySm0xbTdPe…",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXZ2ZTF4OTRZVVAwODl3ajFsSmt2djdDT1E2bWhVc29XSzk1RElHV1c2V29LVkx0dGFEUGJuZ1BNQWZjbHdpRlhVUl9RVGlBRGhSeVR3bjVWbTBLNFJ4TnlVMHRDLWNMNkVnMjUzOTA1R1p3Um0ySm0xbTdPejFIRUYtUGMxN193NHpoem9aUWlFbzlGRHJSUXVJLVB2UVp2MEFJdA?oc=5"
+  },
+  {
+    "source": "KSL News",
+    "date": "1 week ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "3 questions every parent should ask before buying an AI toy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2lVTEJNNGpZel9EUm5fcHNvNGtHVk1mUTQySnRqRjI3WUZYZGhoN1EwRWRLUUhiaGxJVTdqU2NpQjA4a1pTMzBLRG84RXFlQVVaNTF6LXlYUU4tOFJKdUtXVmIzRG1LR2pDcWEzRy1yem8zSXpfN0JmUDJTa…",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2lVTEJNNGpZel9EUm5fcHNvNGtHVk1mUTQySnRqRjI3WUZYZGhoN1EwRWRLUUhiaGxJVTdqU2NpQjA4a1pTMzBLRG84RXFlQVVaNTF6LXlYUU4tOFJKdUtXVmIzRG1LR2pDcWEzRy1yem8zSXpfN0JmUDJTazJBZWRibWstbURMMm9Vblo5UURON0Mwbi1Pc3prSDc?oc=5"
+  },
+  {
+    "source": "TODAY.com",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "New Concerns Arise Over What AI Toys Could Be Teaching Kids",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSW5xSnZZN2dIN2I5bkF3NkFCc3NKRFZJazdtQk9EamtSeTNSTzlaXzhLTjNvbU4tWXA0alFsQk5DandBWnhWZzdyMmhtWFdzNjVCZXRjdU5HRVJrWkFWQnp5WXJXREpXZWVCUUhzZGNaSlExZ01mX0JFRnJaO…",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSW5xSnZZN2dIN2I5bkF3NkFCc3NKRFZJazdtQk9EamtSeTNSTzlaXzhLTjNvbU4tWXA0alFsQk5DandBWnhWZzdyMmhtWFdzNjVCZXRjdU5HRVJrWkFWQnp5WXJXREpXZWVCUUhzZGNaSlExZ01mX0JFRnJaOUVFYjh1S1ZTVGlsS2sySHFNcDVpY0lteE5kbXBoZ29SbWU5M2c?oc=5"
+  },
+  {
+    "source": "wandtv.com",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "The dangers of AI toys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54VUplRmtuNzFldVJGaHlNTmhJRUxILVRpc296MlpGZ2ZKR202SkVPZkFfVUdxcjJvaks5SEFfNjh5YUpEUzc3TnEtV2taQmRjVUQxUEpGa2l1NXIwOVZtb2ZrdWhsekE?oc=5\" target=\"_blank\">The dan…",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54VUplRmtuNzFldVJGaHlNTmhJRUxILVRpc296MlpGZ2ZKR202SkVPZkFfVUdxcjJvaks5SEFfNjh5YUpEUzc3TnEtV2taQmRjVUQxUEpGa2l1NXIwOVZtb2ZrdWhsekE?oc=5"
+  },
+  {
+    "source": "23ABC News Bakersfield",
+    "date": "today",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "AI toys marketed to kids can veer into explicit conversations, prompting major retailers to pull listings",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYVdOcS1xc3U1bU5GeUx5TktiYWNERk1jS2lCSU5yZDl3MWc2UC1TYnRza1BaYXplM2N2VWhxZjhPQURBM2ZTVmhsaGVHOTd3U29tamNZS210aFV1c29wbmNwclhHUDhxREhMcHdGS3NqRHI2dnA4bnYwdW04R…",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYVdOcS1xc3U1bU5GeUx5TktiYWNERk1jS2lCSU5yZDl3MWc2UC1TYnRza1BaYXplM2N2VWhxZjhPQURBM2ZTVmhsaGVHOTd3U29tamNZS210aFV1c29wbmNwclhHUDhxREhMcHdGS3NqRHI2dnA4bnYwdW04RXgtUncyT2pnb0Q0cFAtaW9hQk8xRGR5MXFDZUdPTjVTMGRsOW8wa3B1MUNUUGFTaURtN1U2RXQ1YlNnU2ZtbXlYZHpsSlg3Z1cyRXpDR09GbmhvSWZnZ0ZxaHZMZm94ck80dng5cEV1VFVTU1kzSXZPMW1HcGtLVHBhbGJGVQ?oc=5"
+  },
+  {
+    "source": "Movieguide",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Parents, Skip the AI Toys This Christmas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1h3dWloZEpHSTczcHg3dEFFTEpmWGFOTGlxbE9mOFloNkYwT2RyNkltYUlzTm54cmJlbGtsZWVrNVV3aTJTVEpRbDdkbVczOUNCcU1mSEVOVmM5cTB2bGtCX1JESVpVNVcyZkE3c2hHS0dqVXRrZ1VwNXJiT…",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1h3dWloZEpHSTczcHg3dEFFTEpmWGFOTGlxbE9mOFloNkYwT2RyNkltYUlzTm54cmJlbGtsZWVrNVV3aTJTVEpRbDdkbVczOUNCcU1mSEVOVmM5cTB2bGtCX1JESVpVNVcyZkE3c2hHS0dqVXRrZ1VwNXJiTTdMZGYyUkM5c3p4akRuMzhB?oc=5"
+  },
+  {
+    "source": "SheKnows",
+    "date": "4 days ago",
+    "tag": "",
+    "tagLabel": "Industry",
+    "headline": "Beware of the AI Toys That Can Talk Dirty to Your Kids",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1nSUg0Yk5Db1J6Z0NNMlhpenpaNlROYy0taVp5NERDSVpJTDlYY1dNUEo4TFlVUkQ0Ymw1MkZvaENWZUhkaElzN1AzbWIxRHdCRGhLUkFYUmtSZUVRU1hKZGZFc2ROdXl2OVRzTEpZa3Frdll4Yjg2cQ?oc=5\"…",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nSUg0Yk5Db1J6Z0NNMlhpenpaNlROYy0taVp5NERDSVpJTDlYY1dNUEo4TFlVUkQ0Ymw1MkZvaENWZUhkaElzN1AzbWIxRHdCRGhLUkFYUmtSZUVRU1hKZGZFc2ROdXl2OVRzTEpZa3Frdll4Yjg2cQ?oc=5"
   }
 ]
